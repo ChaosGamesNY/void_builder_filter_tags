@@ -9,10 +9,6 @@
 		"minecraft:large_amethyst_bud",
 		"minecraft:amethyst_cluster",
 		{
-			"id": "#chipped:amethyst_block",
-			"required": false
-		},
-		{
 			"id": "twigs:polished_amethyst",
 			"required": false
 		},

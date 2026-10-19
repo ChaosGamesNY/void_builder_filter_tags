@@ -2,10 +2,6 @@
 	"replace": false,
 	"values": [
 		{
-			"id": "#void_builder:chipped/dirt",
-			"required": false
-		},
-		{
 			"id": "quark:dirt_bricks",
 			"required": false
 		},

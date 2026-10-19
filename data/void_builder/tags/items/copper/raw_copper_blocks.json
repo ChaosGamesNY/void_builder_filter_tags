@@ -1,7 +1,7 @@
 {
 	"replace": false,
 	"values": [
-		"#forge:storage_blocks/raw_copper",
+		"minecraft:raw_copper_block",
 		{
 			"id": "quark:raw_copper_bricks",
 			"required": false

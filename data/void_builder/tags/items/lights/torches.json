@@ -3,10 +3,6 @@
 	"values": [
 		"minecraft:torch",
 		{
-			"id": "#chipped:torch",
-			"required": false
-		},
-		{
 			"id": "adorn:stone_torch",
 			"required": false
 		}

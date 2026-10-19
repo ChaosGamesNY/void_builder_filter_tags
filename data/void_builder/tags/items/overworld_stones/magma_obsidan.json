@@ -2,20 +2,8 @@
 	"replace": false,
 	"values": [
 		"minecraft:magma_block",
-		{
-			"id": "#chipped:magma_block",
-			"required": false
-		},
 		"minecraft:obsidian",
 		"#forge:obsidian",
-		{
-			"id": "#chipped:obsidian",
-			"required": false
-		},
-		"minecraft:crying_obsidian",
-		{
-			"id": "#chipped:crying_obsidian",
-			"required": false
-		}
+		"minecraft:crying_obsidian"
 	]
 }

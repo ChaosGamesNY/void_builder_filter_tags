@@ -7,10 +7,6 @@
 		"minecraft:mud_brick_stairs",
 		"minecraft:mud_brick_slab",
 		{
-			"id": "#chipped:mud_bricks",
-			"required": false
-		},
-		{
 			"id": "quark:carved_mud_bricks",
 			"required": false
 		},

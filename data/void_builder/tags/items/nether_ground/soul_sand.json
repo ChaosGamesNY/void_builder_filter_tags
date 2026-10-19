@@ -3,10 +3,6 @@
 	"values": [
 		"minecraft:soul_sand",
 		{
-			"id": "#chipped:soul_sand",
-			"required": false
-		},
-		{
 			"id": "quark:soul_sandstone_bricks",
 			"required": false
 		},

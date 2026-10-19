@@ -1,20 +1,12 @@
 {
 	"replace": false,
 	"values": [
+		"minecraft:gold_block",
 		"#minecraft:gold_ores",
 		"#forge:raw_materials/gold",
 		"#forge:ingots/gold",
 		"#forge:nuggets/gold",
-		"#forge:storage_blocks/gold",
 		"#forge:storage_blocks/raw_gold",
-		{
-			"id": "#chipped:gold_block",
-			"required": false
-		},
-		{
-			"id": "#chipped:raw_gold_block",
-			"required": false
-		},
 		{
 			"id": "quark:raw_gold_bricks",
 			"required": false

@@ -1,20 +1,12 @@
 {
 	"replace": false,
 	"values": [
+		"minecraft:iron_block",
 		"#minecraft:iron_ores",
 		"#forge:raw_materials/iron",
 		"#forge:ingots/iron",
 		"#forge:nuggets/iron",
-		"#forge:storage_blocks/iron",
 		"#forge:storage_blocks/raw_iron",
-		{
-			"id": "#chipped:iron_block",
-			"required": false
-		},
-		{
-			"id": "#chipped:raw_iron_block",
-			"required": false
-		},
 		{
 			"id": "quark:raw_iron_bricks",
 			"required": false

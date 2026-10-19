@@ -3,10 +3,6 @@
 	"values": [
 		"minecraft:lantern",
 		{
-			"id": "#chipped:lantern",
-			"required": false
-		},
-		{
 			"id": "#adorn:candlelit_lanterns",
 			"required": false
 		},

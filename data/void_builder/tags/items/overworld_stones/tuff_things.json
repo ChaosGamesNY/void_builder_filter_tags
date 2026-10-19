@@ -3,10 +3,6 @@
 	"values": [
 		"minecraft:tuff",
 		{
-			"id": "#chipped:tuff",
-			"required": false
-		},
-		{
 			"id": "quark:polished_tuff",
 			"required": false
 		},

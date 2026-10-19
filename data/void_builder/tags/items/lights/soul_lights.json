@@ -7,10 +7,6 @@
 		"#void_builder:mcwlights/soul_street_lamps",
 		"#void_builder:mcwlights/soul_tiki_torches",
 		{
-			"id": "#chipped:soul_lantern",
-			"required": false
-		},
-		{
 			"id": "decorative_blocks:soul_chandelier",
 			"required": false
 		},

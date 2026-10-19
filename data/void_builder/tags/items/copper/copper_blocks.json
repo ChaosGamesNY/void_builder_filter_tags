@@ -1,7 +1,7 @@
 {
 	"replace": false,
 	"values": [
-		"#forge:storage_blocks/copper",
+		"minecraft:copper_block",
 		"minecraft:cut_copper",
 		"minecraft:cut_copper_stairs",
 		"minecraft:cut_copper_slab",
