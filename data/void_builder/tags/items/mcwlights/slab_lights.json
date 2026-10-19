@@ -1,0 +1,21 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "mcwlights:redstone_lamp_slab",
+			"required": false
+		},
+		{
+			"id": "mcwlights:glowstone_slab",
+			"required": false
+		},
+		{
+			"id": "mcwlights:shroomlight_slab",
+			"required": false
+		},
+		{
+			"id": "mcwlights:sea_lantern_slab",
+			"required": false
+		}
+	]
+}

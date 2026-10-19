@@ -1,0 +1,30 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:soul_torch",
+		"minecraft:soul_lantern",
+		"minecraft:soul_campfire",
+		"#void_builder:mcwlights/soul_street_lamps",
+		"#void_builder:mcwlights/soul_tiki_torches",
+		{
+			"id": "#chipped:soul_lantern",
+			"required": false
+		},
+		{
+			"id": "decorative_blocks:soul_chandelier",
+			"required": false
+		},
+		{
+			"id": "decorative_blocks:soul_brazier",
+			"required": false
+		},
+		{
+			"id": "supplementaries:sconce_soul",
+			"required": false
+		},
+		{
+			"id": "twigs:soul_lamp",
+			"required": false
+		}
+	]
+}

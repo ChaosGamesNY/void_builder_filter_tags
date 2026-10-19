@@ -1,0 +1,25 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "#void_builder:chipped/dirt",
+			"required": false
+		},
+		{
+			"id": "quark:dirt_bricks",
+			"required": false
+		},
+		{
+			"id": "quark:dirt_bricks_stairs",
+			"required": false
+		},
+		{
+			"id": "quark:dirt_bricks_slab",
+			"required": false
+		},
+		{
+			"id": "quark:dirt_bricks_vertical_slab",
+			"required": false
+		}
+	]
+}

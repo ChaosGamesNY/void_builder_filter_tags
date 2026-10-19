@@ -1,0 +1,357 @@
+{
+	"replace": false,
+	"value": [
+		{
+			"id": "biomesoplenty:fir_fence_gate",
+			"required": false
+		},
+		{
+			"id": "biomesoplenty:pine_fence_gate",
+			"required": false
+		},
+		{
+			"id": "biomesoplenty:maple_fence_gate",
+			"required": false
+		},
+		{
+			"id": "biomesoplenty:redwood_fence_gate",
+			"required": false
+		},
+		{
+			"id": "biomesoplenty:mahogany_fence_gate",
+			"required": false
+		},
+		{
+			"id": "biomesoplenty:jacaranda_fence_gate",
+			"required": false
+		},
+		{
+			"id": "biomesoplenty:palm_fence_gate",
+			"required": false
+		},
+		{
+			"id": "biomesoplenty:willow_fence_gate",
+			"required": false
+		},
+		{
+			"id": "biomesoplenty:dead_fence_gate",
+			"required": false
+		},
+		{
+			"id": "biomesoplenty:magic_fence_gate",
+			"required": false
+		},
+		{
+			"id": "biomesoplenty:umbran_fence_gate",
+			"required": false
+		},
+		{
+			"id": "biomesoplenty:hellbark_fence_gate",
+			"required": false
+		},
+		{
+			"id": "biomesoplenty:empyreal_fence_gate",
+			"required": false
+		},
+		{
+			"id": "refurbished_furniture:oak_lattice_fence_gate",
+			"required": false
+		},
+		{
+			"id": "refurbished_furniture:spruce_lattice_fence_gate",
+			"required": false
+		},
+		{
+			"id": "refurbished_furniture:birch_lattice_fence_gate",
+			"required": false
+		},
+		{
+			"id": "refurbished_furniture:jungle_lattice_fence_gate",
+			"required": false
+		},
+		{
+			"id": "refurbished_furniture:acacia_lattice_fence_gate",
+			"required": false
+		},
+		{
+			"id": "refurbished_furniture:dark_oak_lattice_fence_gate",
+			"required": false
+		},
+		{
+			"id": "refurbished_furniture:mangrove_lattice_fence_gate",
+			"required": false
+		},
+		{
+			"id": "refurbished_furniture:cherry_lattice_fence_gate",
+			"required": false
+		},
+		{
+			"id": "refurbished_furniture:crimson_lattice_fence_gate",
+			"required": false
+		},
+		{
+			"id": "refurbished_furniture:warped_lattice_fence_gate",
+			"required": false
+		},
+		{
+			"id": "everycomp:rfm/quark/azalea_lattice_fence_gate",
+			"required": false
+		},
+		{
+			"id": "everycomp:rfm/quark/ancient_lattice_fence_gate",
+			"required": false
+		},
+		{
+			"id": "everycomp:rfm/quark/blossom_lattice_fence_gate",
+			"required": false
+		},
+		{
+			"id": "everycomp:rfm/biomesoplenty/fir_lattice_fence_gate",
+			"required": false
+		},
+		{
+			"id": "everycomp:rfm/biomesoplenty/pine_lattice_fence_gate",
+			"required": false
+		},
+		{
+			"id": "everycomp:rfm/biomesoplenty/maple_lattice_fence_gate",
+			"required": false
+		},
+		{
+			"id": "everycomp:rfm/biomesoplenty/redwood_lattice_fence_gate",
+			"required": false
+		},
+		{
+			"id": "everycomp:rfm/biomesoplenty/mahogany_lattice_fence_gate",
+			"required": false
+		},
+		{
+			"id": "everycomp:rfm/biomesoplenty/jacaranda_lattice_fence_gate",
+			"required": false
+		},
+		{
+			"id": "everycomp:rfm/biomesoplenty/palm_lattice_fence_gate",
+			"required": false
+		},
+		{
+			"id": "everycomp:rfm/biomesoplenty/willow_lattice_fence_gate",
+			"required": false
+		},
+		{
+			"id": "everycomp:rfm/biomesoplenty/dead_lattice_fence_gate",
+			"required": false
+		},
+		{
+			"id": "everycomp:rfm/biomesoplenty/magic_lattice_fence_gate",
+			"required": false
+		},
+		{
+			"id": "everycomp:rfm/biomesoplenty/umbran_lattice_fence_gate",
+			"required": false
+		},
+		{
+			"id": "everycomp:rfm/biomesoplenty/hellbark_lattice_fence_gate",
+			"required": false
+		},
+		{
+			"id": "everycomp:rfm/biomesoplenty/empyreal_lattice_fence_gate",
+			"required": false
+		},
+		{
+			"id": "farmersdelight:rope_fence_gate",
+			"required": false
+		},
+		{
+			"id": "mcwbiomesoplenty:dead_highly_gate",
+			"required": false
+		},
+		{
+			"id": "mcwbiomesoplenty:dead_pyramid_gate",
+			"required": false
+		},
+		{
+			"id": "mcwbiomesoplenty:dead_curved_gate",
+			"required": false
+		},
+		{
+			"id": "mcwbiomesoplenty:fir_highly_gate",
+			"required": false
+		},
+		{
+			"id": "mcwbiomesoplenty:fir_pyramid_gate",
+			"required": false
+		},
+		{
+			"id": "mcwbiomesoplenty:fir_curved_gate",
+			"required": false
+		},
+		{
+			"id": "furnish:iron_gate",
+			"required": false
+		},
+		{
+			"id": "mcwfences:stone_brick_railing_gate",
+			"required": false
+		},
+		{
+			"id": "mcwfences:andesite_railing_gate",
+			"required": false
+		},
+		{
+			"id": "mcwfences:diotire_railing_gate",
+			"required": false
+		},
+		{
+			"id": "mcwfences:granite_railing_gate",
+			"required": false
+		},
+		{
+			"id": "mcwfences:sandstone_railing_gate",
+			"required": false
+		},
+		{
+			"id": "mcwfences:red_sandstone_railing_gate",
+			"required": false
+		},
+		{
+			"id": "mcwfences:blackstone_railing_gate",
+			"required": false
+		},
+		{
+			"id": "mcwfences:blackstone_brick_railing_gate",
+			"required": false
+		},
+		{
+			"id": "mcwfences:nether_brick_railing_gate",
+			"required": false
+		},
+		{
+			"id": "mcwfences:end_brick_railing_gate",
+			"required": false
+		},
+		{
+			"id": "mcwfences:deepslate_railing_gate",
+			"required": false
+		},
+		{
+			"id": "mcwfences:deepslate_brick_railing_gate",
+			"required": false
+		},
+		{
+			"id": "mcwfences:quartz_railing_gate",
+			"required": false
+		},
+		{
+			"id": "mcwfences:mud_brick_railing_gate",
+			"required": false
+		},
+		{
+			"id": "mcwfences:prismarine_railing_gate",
+			"required": false
+		},
+		{
+			"id": "mcwfences:majestic_metal_fence_gate",
+			"required": false
+		},
+		{
+			"id": "mcwfences:curved_metal_fence_gate",
+			"required": false
+		},
+		{
+			"id": "mcwfences:mesh_metal_fence_gate",
+			"required": false
+		},
+		{
+			"id": "mcwfences:panelled_metal_fence_gate",
+			"required": false
+		},
+		{
+			"id": "mcwfences:bastion_metal_fence_gate",
+			"required": false
+		},
+		{
+			"id": "mcwquark:soul_sandstone_bricks_railing_gate",
+			"required": false
+		},
+		{
+			"id": "mcwquark:limestone_bricks_railing_gate",
+			"required": false
+		},
+		{
+			"id": "mcwquark:jasper_bricks_railing_gate",
+			"required": false
+		},
+		{
+			"id": "mcwquark:shale_bricks_railing_gate",
+			"required": false
+		},
+		{
+			"id": "mcwquark:permafrost_bricks_railing_gate",
+			"required": false
+		},
+		{
+			"id": "mcwquark:red_sandstone_bricks_railing_gate",
+			"required": false
+		},
+		{
+			"id": "mcwquark:sandstone_bricks_railing_gate",
+			"required": false
+		},
+		{
+			"id": "mcwquark:cobblestone_bricks_railing_gate",
+			"required": false
+		},
+		{
+			"id": "mcwquark:mossy_cobblestone_bricks_railing_gate",
+			"required": false
+		},
+		{
+			"id": "mcwquark:blackstone_bricks_railing_gate",
+			"required": false
+		},
+		{
+			"id": "mcwquark:diorite_bricks_railing_gate",
+			"required": false
+		},
+		{
+			"id": "mcwquark:granite_bricks_railing_gate",
+			"required": false
+		},
+		{
+			"id": "mcwquark:andesite_bricks_railing_gate",
+			"required": false
+		},
+		{
+			"id": "mcwquark:calicte_bricks_railing_gate",
+			"required": false
+		},
+		{
+			"id": "mcwquark:dripstone_bricks_railing_gate",
+			"required": false
+		},
+		{
+			"id": "mcwquark:tuff_bricks_railing_gate",
+			"required": false
+		},
+		{
+			"id": "mcwquark:raw_iron_bricks_railing_gate",
+			"required": false
+		},
+		{
+			"id": "mcwquark:raw_gold_bricks_railing_gate",
+			"required": false
+		},
+		{
+			"id": "mcwquark:raw_copper_bricks_railing_gate",
+			"required": false
+		},
+		{
+			"id": "supplementaries:iron_gate",
+			"required": false
+		},
+		{
+			"id": "supplementaries:gold_gate",
+			"required": false
+		}
+	]
+}

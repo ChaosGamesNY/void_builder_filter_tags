@@ -1,0 +1,29 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "mcwlights:golden_small_chandelier",
+			"required": false
+		},
+		{
+			"id": "mcwlights:golden_chandelier",
+			"required": false
+		},
+		{
+			"id": "mcwlights:copper_small_chandelier",
+			"required": false
+		},
+		{
+			"id": "mcwlights:copper_chandelier",
+			"required": false
+		},
+		{
+			"id": "mcwlights:iron_small_chandelier",
+			"required": false
+		},
+		{
+			"id": "mcwlights:iron_chandelier",
+			"required": false
+		}
+	]
+}

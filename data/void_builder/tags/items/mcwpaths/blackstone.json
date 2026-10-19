@@ -1,0 +1,98 @@
+{
+	"replace": false,
+	"values":
+	[
+		{
+			"id": "mcwpaths:blackstone_diamond_paving",
+			"required": false
+		},
+		{
+			"id": "mcwpaths:blackstone_basket_weave_paving",
+			"required": false
+		},
+		{
+			"id": "mcwpaths:blackstone_square_paving",
+			"required": false
+		},
+		{
+			"id": "mcwpaths:blackstone_honeycomb_paving",
+			"required": false
+		},
+		{
+			"id": "mcwpaths:blackstone_clover_paving",
+			"required": false
+		},
+		{
+			"id": "mcwpaths:blackstone_dumble_paving",
+			"required": false
+		},
+		{
+			"id": "mcwpaths:blackstone_strewn_rocky_path",
+			"required": false
+		},
+		{
+			"id": "mcwpaths:blackstone_running_bond_path",
+			"required": false
+		},
+		{
+			"id": "mcwpaths:blackstone_running_bond_slab",
+			"required": false
+		},
+		{
+			"id": "mcwpaths:blackstone_running_bond",
+			"required": false
+		},
+		{
+			"id": "mcwpaths:blackstone_running_bond_stairs",
+			"required": false
+		},
+		{
+			"id": "mcwpaths:blackstone_windmill_weave_path",
+			"required": false
+		},
+		{
+			"id": "mcwpaths:blackstone_windmill_weave_slab",
+			"required": false
+		},
+		{
+			"id": "mcwpaths:blackstone_windmill_weave",
+			"required": false
+		},
+		{
+			"id": "mcwpaths:blackstone_windmill_weave_stairs",
+			"required": false
+		},
+		{
+			"id": "mcwpaths:blackstone_flagstone_path",
+			"required": false
+		},
+		{
+			"id": "mcwpaths:blackstone_flagstone_slab",
+			"required": false
+		},
+		{
+			"id": "mcwpaths:blackstone_flagstone",
+			"required": false
+		},
+		{
+			"id": "mcwpaths:blackstone_flagstone_stairs",
+			"required": false
+		},
+		{
+			"id": "mcwpaths:blackstone_crystal_floor_path",
+			"required": false
+		},
+		{
+			"id": "mcwpaths:blackstone_crystal_floor_slab",
+			"required": false
+		},
+		{
+			"id": "mcwpaths:blackstone_crystal_floor",
+			"required": false
+		},
+		{
+			"id": "mcwpaths:blackstone_crystal_floor_stairs",
+			"required": false
+		}
+	]
+}

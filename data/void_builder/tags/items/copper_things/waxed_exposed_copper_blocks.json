@@ -1,0 +1,17 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:waxed_exposed_copper",
+		"minecraft:waxed_exposed_cut_copper",
+		"minecraft:waxed_exposed_cut_copper_stairs",
+		"minecraft:waxed_exposed_cut_copper_slab",
+		{
+			"id": "quark:waxed_exposed_cut_copper_vertical_slab",
+			"required": false
+		},
+		{
+			"id": "twigs:waxed_exposed_copper_pillar",
+			"required": false
+		}
+	]
+}

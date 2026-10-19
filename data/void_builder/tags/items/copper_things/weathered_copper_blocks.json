@@ -1,0 +1,17 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:weathered_copper",
+		"minecraft:weathered_cut_copper",
+		"minecraft:weathered_cut_copper_stairs",
+		"minecraft:weathered_cut_copper_slab",
+		{
+			"id": "quark:weathered_cut_copper_vertical_slab",
+			"required": false
+		},
+		{
+			"id": "twigs:weathered_copper_pillar",
+			"required": false
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"replace": false,
+	"values": [
+		"#forge:gems/amethyst",
+		"#forge:storage_blocks/amethyst",
+		"minecraft:budding_amethyst",
+		"minecraft:small_amethyst_bud",
+		"minecraft:medium_amethyst_bud",
+		"minecraft:large_amethyst_bud",
+		"minecraft:amethyst_cluster",
+		{
+			"id": "#chipped:amethyst_block",
+			"required": false
+		},
+		{
+			"id": "twigs:polished_amethyst",
+			"required": false
+		},
+		{
+			"id": "twigs:cut_amethyst",
+			"required": false
+		}
+	]
+}

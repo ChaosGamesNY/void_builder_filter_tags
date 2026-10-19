@@ -1,0 +1,49 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "mcwlights:oak_tiki_torch",
+			"required": false
+		},
+		{
+			"id": "mcwlights:spruce_tiki_torch",
+			"required": false
+		},
+		{
+			"id": "mcwlights:birch_tiki_torch",
+			"required": false
+		},
+		{
+			"id": "mcwlights:jungle_tiki_torch",
+			"required": false
+		},
+		{
+			"id": "mcwlights:acacia_tiki_torch",
+			"required": false
+		},
+		{
+			"id": "mcwlights:dark_oak_tiki_torch",
+			"required": false
+		},
+		{
+			"id": "mcwlights:crimson_tiki_torch",
+			"required": false
+		},
+		{
+			"id": "mcwlights:warped_tiki_torch",
+			"required": false
+		},
+		{
+			"id": "mcwlights:mangrove_tiki_torch",
+			"required": false
+		},
+		{
+			"id": "mcwlights:bamboo_tiki_torch",
+			"required": false
+		},
+		{
+			"id": "mcwlights:cherry_tiki_torch",
+			"required": false
+		}
+	]
+}

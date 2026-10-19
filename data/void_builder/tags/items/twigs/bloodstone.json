@@ -1,0 +1,57 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "twigs:bloodstone",
+			"required": false
+		},
+		{
+			"id": "twigs:bloodstone_stairs",
+			"required": false
+		},
+		{
+			"id": "twigs:bloodstone_slab",
+			"required": false
+		},
+		{
+			"id": "v_slab_compat:twigs/bloodstone_vertical_slab",
+			"required": false
+		},
+		{
+			"id": "twigs:polished_bloodstone",
+			"required": false
+		},
+		{
+			"id": "twigs:polished_bloodstone_stairs",
+			"required": false
+		},
+		{
+			"id": "twigs:polished_bloodstone_slab",
+			"required": false
+		},
+		{
+			"id": "v_slab_compat:twigs/polished_bloodstone_vertical_slab",
+			"required": false
+		},
+		{
+			"id": "twigs:polished_bloodstone_bricks",
+			"required": false
+		},
+		{
+			"id": "twigs:cracked_polished_bloodstone_bricks",
+			"required": false
+		},
+		{
+			"id": "twigs:polished_bloodstone_brick_stairs",
+			"required": false
+		},
+		{
+			"id": "twigs:polished_bloodstone_brick_slab",
+			"required": false
+		},
+		{
+			"id": "v_slab_compat:twigs/polished_bloodstone_brick_vertical_slab",
+			"required": false
+		}
+	]
+}

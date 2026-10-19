@@ -1,0 +1,37 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "quark:permafrost",
+			"required": false
+		},
+		{
+			"id": "quark:permafrost_slab",
+			"required": false
+		},
+		{
+			"id": "quark:permafrost_vertical_slab",
+			"required": false
+		},
+		{
+			"id": "quark:permafrost_stairs",
+			"required": false
+		},
+		{
+			"id": "quark:permafrost_bricks",
+			"required": false
+		},
+		{
+			"id": "quark:permafrost_bricks_slab",
+			"required": false
+		},
+		{
+			"id": "quark:permafrost_bricks_vertical_slab",
+			"required": false
+		},
+		{
+			"id": "quark:permafrost_bricks_stairs",
+			"required": false
+		}
+	]
+}

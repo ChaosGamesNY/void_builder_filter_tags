@@ -1,0 +1,42 @@
+{
+	"replace": false,
+	"values": [
+		"#minecraft:wart_blocks",
+		{
+			"id": "#chipped:nether_wart_block",
+			"required": false
+		},
+		{
+			"id": "#chipped:warped_wart_black",
+			"required": false
+		},
+		"minecraft:crimson_fungus",
+		{
+			"id": "#chipped:crimson_fungus",
+			"required": false
+		},
+		"minecraft:warped_fungus",
+		{
+			"id": "#chipped:warped_fungus",
+			"required": false
+		},
+		"minecraft:crimson_roots",
+		{
+			"id": "#chipped:crimson_roots",
+			"required": false
+		},
+		"minecraft:warped_roots",
+		{
+			"id": "#chipped:warped_roots",
+			"required": false
+		},
+		"minecraft:nether_sprouts",
+		{
+			"id": "#chipped:nether_sprouts",
+			"required": false
+		},
+		"minecraft:weeping_vines",
+		"minecraft:twisting_vines",
+		"minecraft:nether_wart"
+	]
+}

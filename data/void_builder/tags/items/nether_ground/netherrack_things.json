@@ -1,0 +1,22 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:netherrack",
+		{
+			"id": "quark:netherrack_bricks",
+			"required": false
+		},
+		{
+			"id": "quark:netherrack_bricks_stairs",
+			"required": false
+		},
+		{
+			"id": "quark:netherrack_bricks_slab",
+			"required": false
+		},
+		{
+			"id": "quark:netherrack_bricks_vertical_slab",
+			"required": false
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"replace": false,
+	"values": [
+		"#forge:storage_blocks/copper",
+		"minecraft:cut_copper",
+		"minecraft:cut_copper_stairs",
+		"minecraft:cut_copper_slab",
+		{
+			"id": "quark:cut_copper_vertical_slab",
+			"required": false
+		},
+		{
+			"id": "twigs:copper_pillar",
+			"required": false
+		}
+	]
+}

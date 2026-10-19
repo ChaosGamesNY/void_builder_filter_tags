@@ -1,0 +1,26 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:lantern",
+		{
+			"id": "#chipped:lantern",
+			"required": false
+		},
+		{
+			"id": "#adorn:candlelit_lanterns",
+			"required": false
+		},
+		{
+			"id": "#void_builder:mcwlights/lanterns",
+			"required": false
+		},
+		{
+			"id": "suppsquared:copper_lantern",
+			"required": false
+		},
+		{
+			"id": "suppsquared:crimson_lantern",
+			"required": false
+		}
+	]
+}

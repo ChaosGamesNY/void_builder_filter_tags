@@ -1,0 +1,109 @@
+{
+	"replace": false,
+	"value": [
+		{
+			"id": "refurbished_furniture:oak_lattice_fence",
+			"required": false
+		},
+		{
+			"id": "refurbished_furniture:spruce_lattice_fence",
+			"required": false
+		},
+		{
+			"id": "refurbished_furniture:birch_lattice_fence",
+			"required": false
+		},
+		{
+			"id": "refurbished_furniture:jungle_lattice_fence",
+			"required": false
+		},
+		{
+			"id": "refurbished_furniture:acacia_lattice_fence",
+			"required": false
+		},
+		{
+			"id": "refurbished_furniture:dark_oak_lattice_fence",
+			"required": false
+		},
+		{
+			"id": "refurbished_furniture:mangrove_lattice_fence",
+			"required": false
+		},
+		{
+			"id": "refurbished_furniture:cherry_lattice_fence",
+			"required": false
+		},
+		{
+			"id": "refurbished_furniture:crimson_lattice_fence",
+			"required": false
+		},
+		{
+			"id": "refurbished_furniture:warped_lattice_fence",
+			"required": false
+		},
+		{
+			"id": "everycomp:rfm/quark/azalea_lattice_fence",
+			"required": false
+		},
+		{
+			"id": "everycomp:rfm/quark/ancient_lattice_fence",
+			"required": false
+		},
+		{
+			"id": "everycomp:rfm/quark/blossom_lattice_fence",
+			"required": false
+		},
+		{
+			"id": "everycomp:rfm/biomesoplenty/fir_lattice_fence",
+			"required": false
+		},
+		{
+			"id": "everycomp:rfm/biomesoplenty/pine_lattice_fence",
+			"required": false
+		},
+		{
+			"id": "everycomp:rfm/biomesoplenty/maple_lattice_fence",
+			"required": false
+		},
+		{
+			"id": "everycomp:rfm/biomesoplenty/redwood_lattice_fence",
+			"required": false
+		},
+		{
+			"id": "everycomp:rfm/biomesoplenty/mahogany_lattice_fence",
+			"required": false
+		},
+		{
+			"id": "everycomp:rfm/biomesoplenty/jacaranda_lattice_fence",
+			"required": false
+		},
+		{
+			"id": "everycomp:rfm/biomesoplenty/palm_lattice_fence",
+			"required": false
+		},
+		{
+			"id": "everycomp:rfm/biomesoplenty/willow_lattice_fence",
+			"required": false
+		},
+		{
+			"id": "everycomp:rfm/biomesoplenty/dead_lattice_fence",
+			"required": false
+		},
+		{
+			"id": "everycomp:rfm/biomesoplenty/magic_lattice_fence",
+			"required": false
+		},
+		{
+			"id": "everycomp:rfm/biomesoplenty/umbran_lattice_fence",
+			"required": false
+		},
+		{
+			"id": "everycomp:rfm/biomesoplenty/hellbark_lattice_fence",
+			"required": false
+		},
+		{
+			"id": "everycomp:rfm/biomesoplenty/empyreal_lattice_fence",
+			"required": false
+		}
+	]
+}

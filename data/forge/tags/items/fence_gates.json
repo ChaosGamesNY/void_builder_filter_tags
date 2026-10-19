@@ -1,0 +1,7 @@
+{
+	"replace": false,
+	"value": [
+		"#forge:fence_gates/wooden",
+		"#forge:fence_gates/metal"
+	]
+}

@@ -1,0 +1,44 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:gravel",
+		"minecraft:suspicious_gravel",
+		"#forge:gravel",
+		{
+			"id": "#chipped:gravel",
+			"required": false
+		},
+		{
+			"id": "supplementaries:gravel_bricks",
+			"required": false
+		},
+		{
+			"id": "supplementaries:suspicious_gravel_bricks",
+			"required": false
+		},
+		{
+			"id": "v_slab_compat:twigs/gravel_brick_vertical_slab",
+			"required": false
+		},
+		{
+			"id": "supplementaries:raked_gravel",
+			"required": false
+		},
+		{
+			"id": "mcwpaths:gravel_path_block",
+			"required": false
+		},
+		{
+			"id": "twigs:gravel_bricks",
+			"required": false
+		},
+		{
+			"id": "twigs:gravel_brick_stairs",
+			"required": false
+		},
+		{
+			"id": "twigs:gravel_brick_slab",
+			"required": false
+		}
+	]
+}

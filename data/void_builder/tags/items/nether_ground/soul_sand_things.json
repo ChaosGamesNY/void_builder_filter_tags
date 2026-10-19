@@ -1,0 +1,74 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:soul_sand",
+		{
+			"id": "#chipped:soul_sand",
+			"required": false
+		},
+		{
+			"id": "quark:soul_sandstone_bricks",
+			"required": false
+		},
+		{
+			"id": "quark:soul_sandstone_bricks_stairs",
+			"required": false
+		},
+		{
+			"id": "quark:soul_sandstone_bricks_slab",
+			"required": false
+		},
+		{
+			"id": "quark:soul_sandstone_bricks_vertical_slab",
+			"required": false
+		},
+		{
+			"id": "quark:soul_sandstone",
+			"required": false
+		},
+		{
+			"id": "quark:soul_sandstone_slab",
+			"required": false
+		},
+		{
+			"id": "quark:soul_sandstone_vertical_slab",
+			"required": false
+		},
+		{
+			"id": "quark:soul_sandstone_stairs",
+			"required": false
+		},
+		{
+			"id": "quark:chiseled_soul_sandstone",
+			"required": false
+		},
+		{
+			"id": "quark:cut_soul_sandstone",
+			"required": false
+		},
+		{
+			"id": "quark:cut_soul_sandstone_slab",
+			"required": false
+		},
+		{
+			"id": "quark:cut_soul_sandstone_vertical_slab",
+			"required": false
+		},
+		{
+			"id": "quark:smooth_soul_sandstone",
+			"required": false
+		},
+		{
+			"id": "quark:smooth_soul_sandstone_slab",
+			"required": false
+		},
+		{
+			"id": "quark:smooth_soul_sandstone_vertical_slab",
+			"required": false
+		},
+		{
+			"id": "quark:smooth_soul_sandstone_stairs",
+			"required": false
+		}
+	]
+}

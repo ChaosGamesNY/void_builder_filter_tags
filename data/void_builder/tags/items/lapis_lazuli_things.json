@@ -1,0 +1,11 @@
+{
+	"replace": false,
+	"values": [
+		"#forge:gems/lapis_lazuli",
+		"#forge:storage_blocks/lapis",
+		{
+			"id": "#chipped:lapis_block",
+			"required": false
+		}
+	]
+}

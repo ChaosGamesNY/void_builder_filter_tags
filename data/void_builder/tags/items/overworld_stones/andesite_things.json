@@ -1,0 +1,43 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:andesite",
+		"minecraft:andesite_stairs",
+		"minecraft:andesite_slab",
+		"minecraft:polished_andesite",
+		"minecraft:polished_andesite_stairs",
+		"minecraft:polished_andesite_slab",
+		{
+			"id": "quark:andesite_vertical_slab",
+			"required": false
+		},
+		{
+			"id": "quark:andesite_bricks",
+			"required": false
+		},
+		{
+			"id": "quark:chiseled_andesite_bricks",
+			"required": false
+		},
+		{
+			"id": "quark:andesite_pillar",
+			"required": false
+		},
+		{
+			"id": "quark:andesite_bricks_slab",
+			"required": false
+		},
+		{
+			"id": "quark:andesite_bricks_vertical_slab",
+			"required": false
+		},
+		{
+			"id": "quark:andesite_bricks_stairs",
+			"required": false
+		},
+		{
+			"id": "quark:polished_andesite_vertical_slab",
+			"required": false
+		}
+	]
+}

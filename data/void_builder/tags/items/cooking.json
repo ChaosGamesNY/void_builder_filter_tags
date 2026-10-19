@@ -1,0 +1,20 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:ice",
+		"minecraft:packed_ice",
+		"minecraft:blue_ice",
+		"minecraft:snow_block",
+		"minecraft:snow",
+		"minecraft:brown_mushroom",
+		"minecraft:red_mushroom",
+		"#forge:mushrooms",
+		"minecraft:sugar_cane",
+		"#forge:berries",
+		"minecraft:seagrass",
+		"minecraft:kelp",
+		"minecraft:dried_kelp_block",
+		"minecraft:melon",
+		"minecraft:pumpkin"
+	]
+}

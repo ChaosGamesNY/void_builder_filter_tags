@@ -1,0 +1,19 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:sea_lantern",
+		"minecraft:sea_pickle",
+		{
+			"id": "#chipped:ochre_froglight",
+			"required": false
+		},
+		{
+			"id": "#chipped:verdant_froglight",
+			"required": false
+		},
+		{
+			"id": "#chipped:pearlescent_froglight",
+			"required": false
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:iron_bars",
+		{
+			"id": "#chipped:iron_bars",
+			"required": false
+		},
+		"minecraft:chain",
+		{
+			"id": "#supplementaries:chains"
+		}
+	]
+}

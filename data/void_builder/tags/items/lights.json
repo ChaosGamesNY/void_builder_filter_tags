@@ -1,0 +1,50 @@
+{
+	"replace": false,
+	"values": [
+		"#minecraft:candles",
+		"minecraft:shroomlight",
+		"minecraft:jack_o_lantern",
+		"minecraft:campfire",
+		"#void_builder:lights/torches",
+		"#void_builder:lights/lanterns",
+		"#void_builder:lights/soul_lights",
+		"#void_builder:lights/paper_lanterns",
+		"#void_builder:lights/water_lights",
+		"#void_builder:mcwlights/candle_holders",
+		"#void_builder:mcwlights/ceiling_fan_lights",
+		"#void_builder:mcwlights/ceiling_lights",
+		"#void_builder:mcwlights/chandeliers",
+		"#void_builder:mcwlights/garden_lights",
+		"#void_builder:mcwlights/lamps",
+		"#void_builder:mcwlights/lanterns",
+		"#void_builder:mcwlights/lava_lamps",
+		"#void_builder:mcwlights/paper_lamps",
+		"#void_builder:mcwlights/slab_lights",
+		"#void_builder:mcwlights/soul_street_lamps",
+		"#void_builder:mcwlights/soul_tiki_torches",
+		"#void_builder:mcwlights/street_lamps",
+		"#void_builder:mcwlights/tiki_torches",
+		"#void_builder:mcwlights/wall_lamps",
+		"#void_builder:mcwlights/wall_lanterns",
+		{
+			"id": "#adorn:table_lamps",
+			"required": false
+		},
+		{
+			"id": "#chipped:shroomlight",
+			"required": false
+		},
+		{
+			"id": "#chipped:redstone_lamp",
+			"required": false
+		},
+		{
+			"id": "furnish:skull_torch",
+			"required": false
+		},
+		{
+			"id": "furnish:wither_skull_torch",
+			"required": false
+		}
+	]
+}

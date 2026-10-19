@@ -1,0 +1,61 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "quark:shale",
+			"required": false
+		},
+		{
+			"id": "quark:polished_shale",
+			"required": false
+		},
+		{
+			"id": "quark:shale_bricks",
+			"required": false
+		},
+		{
+			"id": "quark:chiseled_shale_bricks",
+			"required": false
+		},
+		{
+			"id": "quark:shale_pillar",
+			"required": false
+		},
+		{
+			"id": "quark:shale_bricks_slab",
+			"required": false
+		},
+		{
+			"id": "quark:shale_bricks_vertical_slab",
+			"required": false
+		},
+		{
+			"id": "quark:shale_bricks_stairs",
+			"required": false
+		},
+		{
+			"id": "quark:shale_slab",
+			"required": false
+		},
+		{
+			"id": "quark:shale_vertical_slab",
+			"required": false
+		},
+		{
+			"id": "quark:shale_stairs",
+			"required": false
+		},
+		{
+			"id": "quark:polished_shale_slab",
+			"required": false
+		},
+		{
+			"id": "quark:polished_shale_vertical_slab",
+			"required": false
+		},
+		{
+			"id": "quark:polished_shale_stairs",
+			"required": false
+		}
+	]
+}

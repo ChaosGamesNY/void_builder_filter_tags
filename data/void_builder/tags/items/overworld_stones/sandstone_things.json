@@ -1,0 +1,42 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:sandstone",
+		"minecraft:sandstone_stairs",
+		"minecraft:sandstone_slab",
+		"minecraft:chiseled_sandstone",
+		"minecraft:smooth_sandstone",
+		"minecraft:smooth_sandstone_stairs",
+		"minecraft:smooth_sandstone_slab",
+		"minecraft:cut_sandstone",
+		"minecraft:cut_sandstone_slab",
+		{
+			"id": "quark:sandstone_vertical_slab",
+			"required": false
+		},
+		{
+			"id": "quark:smooth_sandstone_vertical_slab",
+			"required": false
+		},
+		{
+			"id": "quark:cut_sandstone_vertical_slab",
+			"required": false
+		},
+		{
+			"id": "quark:sandstone_bricks",
+			"required": false
+		},
+		{
+			"id": "quark:sandstone_bricks_stairs",
+			"required": false
+		},
+		{
+			"id": "quark:sandstone_bricks_slab",
+			"required": false
+		},
+		{
+			"id": "quark:sandstone_bricks_vertical_slab",
+			"required": false
+		}
+	]
+}

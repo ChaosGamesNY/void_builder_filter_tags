@@ -1,0 +1,98 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:calcite",
+		{
+			"id": "quark:polished_calcite",
+			"required": false
+		},
+		{
+			"id": "quark:calcite_bricks",
+			"required": false
+		},
+		{
+			"id": "quark:chiseled_calcite_bricks",
+			"required": false
+		},
+		{
+			"id": "quark:calcite_pillar",
+			"required": false
+		},
+		{
+			"id": "quark:calcite_bricks_slab",
+			"required": false
+		},
+		{
+			"id": "quark:calcite_bricks_vertical_slab",
+			"required": false
+		},
+		{
+			"id": "quark:calcite_bricks_stairs",
+			"required": false
+		},
+		{
+			"id": "quark:calcite_slab",
+			"required": false
+		},
+		{
+			"id": "quark:calcite_vertical_slab",
+			"required": false
+		},
+		{
+			"id": "quark:calcite_stairs",
+			"required": false
+		},
+		{
+			"id": "quark:polished_calcite_slab",
+			"required": false
+		},
+		{
+			"id": "quark:polished_calcite_vertical_slab",
+			"required": false
+		},
+		{
+			"id": "quark:polished_calcite_stairs",
+			"required": false
+		},
+		{
+			"id": "twigs:calcite_stairs",
+			"required": false
+		},
+		{
+			"id": "twigs:calcite_slab",
+			"required": false
+		},
+		{
+			"id": "twigs:polished_calcite",
+			"required": false
+		},
+		{
+			"id": "twigs:polished_calcite_stairs",
+			"required": false
+		},
+		{
+			"id": "twigs:polished_calcite_slab",
+			"required": false
+		},
+		{
+			"id": "twigs:polished_calcite_bricks",
+			"required": false
+		},
+		{
+			"id": "twigs:cracked_polished_calcite_bricks",
+			"required": false
+		},
+		{
+			"id": "twigs:polished_calcite_brick_stairs",
+			"required": false
+		},
+		{
+			"id": "twigs:polished_calcite_brick_slab",
+			"required": false
+		},
+		{
+			"id": "v_slab_compat:twigs/polished_calcite_brick_vertical_slab",
+			"required": false
+		}
+	]
+}

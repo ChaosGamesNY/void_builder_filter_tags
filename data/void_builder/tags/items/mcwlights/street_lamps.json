@@ -1,0 +1,13 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "mcwlights:classic_street_lamp",
+			"required": false
+		},
+		{
+			"id": "mcwlights:double_street_lamp",
+			"required": false
+		}
+	]
+}

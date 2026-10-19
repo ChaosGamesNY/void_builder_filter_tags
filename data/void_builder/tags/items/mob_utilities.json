@@ -1,0 +1,10 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:turtle_egg",
+		"minecraft:sniffer_egg",
+		"minecraft:carved_pumpkin",
+		"minecraft:hay_block",
+		"minecraft:bee_nest"
+	]
+}

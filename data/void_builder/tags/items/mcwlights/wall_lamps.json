@@ -1,0 +1,13 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "mcwlights:wall_lamp",
+			"required": false
+		},
+		{
+			"id": "mcwlights:square_wall_lamp",
+			"required": false
+		}
+	]
+}

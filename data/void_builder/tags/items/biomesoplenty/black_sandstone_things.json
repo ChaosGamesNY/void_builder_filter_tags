@@ -1,0 +1,53 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "biomesoplenty:black_sandstone",
+			"required": false
+		},
+		{
+			"id": "biomesoplenty:black_sandstone_stairs",
+			"required": false
+		},
+		{
+			"id": "biomesoplenty:black_sandstone_slab",
+			"required": false
+		},
+		{
+			"id": "biomesoplenty:chiseled_black_sandstone",
+			"required": false
+		},
+		{
+			"id": "biomesoplenty:smooth_black_sandstone",
+			"required": false
+		},
+		{
+			"id": "biomesoplenty:smooth_black_sandstone_stairs",
+			"required": false
+		},
+		{
+			"id": "biomesoplenty:smooth_black_sandstone_slab",
+			"required": false
+		},
+		{
+			"id": "biomesoplenty:cut_black_sandstone",
+			"required": false
+		},
+		{
+			"id": "biomesoplenty:cut_black_sandstone_slab",
+			"required": false
+		},
+		{
+			"id": "v_slab_compat:biomesoplenty/cut_black_sandstone_vertical_slab",
+			"required": false
+		},
+		{
+			"id": "v_slab_compat:biomesoplenty/black_sandstone_vertical_slab",
+			"required": false
+		},
+		{
+			"id": "v_slab_compat:biomesoplenty/smooth_black_sandstone_vertical_slab",
+			"required": false
+		}
+	]
+}

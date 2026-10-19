@@ -1,0 +1,9 @@
+{
+	"replace": false,
+	"value": [
+		{
+			"id": "quark:bamboo_mosaic_vertical_slab",
+			"required": false
+		}
+	]
+}

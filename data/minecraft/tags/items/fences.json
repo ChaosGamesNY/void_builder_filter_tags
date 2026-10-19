@@ -1,0 +1,21 @@
+{
+	"replace": false,
+	"value": [
+		{
+			"id": "adorn:picket_fence",
+			"required": false
+		},
+		{
+			"id": "adorn_chain_link_fence",
+			"required": false
+		},
+		{
+			"id": "supplementaries:wicker_fence",
+			"required": false
+		},
+		{
+			"id": "farmersdelight:rope_fence",
+			"required": false
+		}
+	]
+}

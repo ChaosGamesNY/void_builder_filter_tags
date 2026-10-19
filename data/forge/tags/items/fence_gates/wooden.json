@@ -1,0 +1,433 @@
+{
+	"replace": false,
+	"value": [
+		{
+			"id": "refurbished_furniture:oak_lattice_fence_gate",
+			"required": false
+		},
+		{
+			"id": "refurbished_furniture:spruce_lattice_fence_gate",
+			"required": false
+		},
+		{
+			"id": "refurbished_furniture:birch_lattice_fence_gate",
+			"required": false
+		},
+		{
+			"id": "refurbished_furniture:jungle_lattice_fence_gate",
+			"required": false
+		},
+		{
+			"id": "refurbished_furniture:acacia_lattice_fence_gate",
+			"required": false
+		},
+		{
+			"id": "refurbished_furniture:dark_oak_lattice_fence_gate",
+			"required": false
+		},
+		{
+			"id": "refurbished_furniture:mangrove_lattice_fence_gate",
+			"required": false
+		},
+		{
+			"id": "refurbished_furniture:cherry_lattice_fence_gate",
+			"required": false
+		},
+		{
+			"id": "refurbished_furniture:crimson_lattice_fence_gate",
+			"required": false
+		},
+		{
+			"id": "refurbished_furniture:warped_lattice_fence_gate",
+			"required": false
+		},
+		{
+			"id": "everycomp:rfm/quark/azalea_lattice_fence_gate",
+			"required": false
+		},
+		{
+			"id": "everycomp:rfm/quark/ancient_lattice_fence_gate",
+			"required": false
+		},
+		{
+			"id": "everycomp:rfm/quark/blossom_lattice_fence_gate",
+			"required": false
+		},
+		{
+			"id": "everycomp:rfm/biomesoplenty/fir_lattice_fence_gate",
+			"required": false
+		},
+		{
+			"id": "everycomp:rfm/biomesoplenty/pine_lattice_fence_gate",
+			"required": false
+		},
+		{
+			"id": "everycomp:rfm/biomesoplenty/maple_lattice_fence_gate",
+			"required": false
+		},
+		{
+			"id": "everycomp:rfm/biomesoplenty/redwood_lattice_fence_gate",
+			"required": false
+		},
+		{
+			"id": "everycomp:rfm/biomesoplenty/mahogany_lattice_fence_gate",
+			"required": false
+		},
+		{
+			"id": "everycomp:rfm/biomesoplenty/jacaranda_lattice_fence_gate",
+			"required": false
+		},
+		{
+			"id": "everycomp:rfm/biomesoplenty/palm_lattice_fence_gate",
+			"required": false
+		},
+		{
+			"id": "everycomp:rfm/biomesoplenty/willow_lattice_fence_gate",
+			"required": false
+		},
+		{
+			"id": "everycomp:rfm/biomesoplenty/dead_lattice_fence_gate",
+			"required": false
+		},
+		{
+			"id": "everycomp:rfm/biomesoplenty/magic_lattice_fence_gate",
+			"required": false
+		},
+		{
+			"id": "everycomp:rfm/biomesoplenty/umbran_lattice_fence_gate",
+			"required": false
+		},
+		{
+			"id": "everycomp:rfm/biomesoplenty/hellbark_lattice_fence_gate",
+			"required": false
+		},
+		{
+			"id": "everycomp:rfm/biomesoplenty/empyreal_lattice_fence_gate",
+			"required": false
+		},
+		{
+			"id": "mcwfences:oak_highly_gate",
+			"required": false
+		},
+		{
+			"id": "mcwfences:oak_pyramid_gate",
+			"required": false
+		},
+		{
+			"id": "mcwfences:oak_curved_gate",
+			"required": false
+		},
+		{
+			"id": "mcwfences:spruce_highly_gate",
+			"required": false
+		},
+		{
+			"id": "mcwfences:spruce_pyramid_gate",
+			"required": false
+		},
+		{
+			"id": "mcwfences:spruce_curved_gate",
+			"required": false
+		},
+		{
+			"id": "mcwfences:birch_highly_gate",
+			"required": false
+		},
+		{
+			"id": "mcwfences:birch_pyramid_gate",
+			"required": false
+		},
+		{
+			"id": "mcwfences:birch_curved_gate",
+			"required": false
+		},
+		{
+			"id": "mcwfences:jungle_highly_gate",
+			"required": false
+		},
+		{
+			"id": "mcwfences:jungle_pyramid_gate",
+			"required": false
+		},
+		{
+			"id": "mcwfences:jungle_curved_gate",
+			"required": false
+		},
+		{
+			"id": "mcwfences:acacia_highly_gate",
+			"required": false
+		},
+		{
+			"id": "mcwfences:acacia_pyramid_gate",
+			"required": false
+		},
+		{
+			"id": "mcwfences:acacia_curved_gate",
+			"required": false
+		},
+		{
+			"id": "mcwfences:dark_oak_highly_gate",
+			"required": false
+		},
+		{
+			"id": "mcwfences:dark_oak_pyramid_gate",
+			"required": false
+		},
+		{
+			"id": "mcwfences:dark_oak_curved_gate",
+			"required": false
+		},
+		{
+			"id": "mcwfences:crimson_highly_gate",
+			"required": false
+		},
+		{
+			"id": "mcwfences:crimson_pyramid_gate",
+			"required": false
+		},
+		{
+			"id": "mcwfences:crimson_curved_gate",
+			"required": false
+		},
+		{
+			"id": "mcwfences:warped_highly_gate",
+			"required": false
+		},
+		{
+			"id": "mcwfences:warped_pyramid_gate",
+			"required": false
+		},
+		{
+			"id": "mcwfences:warped_curved_gate",
+			"required": false
+		},
+		{
+			"id": "mcwfences:mangrove_highly_gate",
+			"required": false
+		},
+		{
+			"id": "mcwfences:mangrove_pyramid_gate",
+			"required": false
+		},
+		{
+			"id": "mcwfences:mangrove_curved_gate",
+			"required": false
+		},
+		{
+			"id": "mcwfences:cherry_highly_gate",
+			"required": false
+		},
+		{
+			"id": "mcwfences:cherry_pyramid_gate",
+			"required": false
+		},
+		{
+			"id": "mcwfences:cherry_curved_gate",
+			"required": false
+		},
+		{
+			"id": "mcwfences:bamboo_highly_gate",
+			"required": false
+		},
+		{
+			"id": "mcwfences:bamboo_pyramid_gate",
+			"required": false
+		},
+		{
+			"id": "mcwfences:bamboo_curved_gate",
+			"required": false
+		},
+		{
+			"id": "mcwbiomesoplenty:dead_highly_gate",
+			"required": false
+		},
+		{
+			"id": "mcwbiomesoplenty:dead_pyramid_gate",
+			"required": false
+		},
+		{
+			"id": "mcwbiomesoplenty:dead_curved_gate",
+			"required": false
+		},
+		{
+			"id": "mcwbiomesoplenty:empyreal_highly_gate",
+			"required": false
+		},
+		{
+			"id": "mcwbiomesoplenty:empyreal_pyramid_gate",
+			"required": false
+		},
+		{
+			"id": "mcwbiomesoplenty:empyreal_curved_gate",
+			"required": false
+		},
+		{
+			"id": "mcwbiomesoplenty:fir_highly_gate",
+			"required": false
+		},
+		{
+			"id": "mcwbiomesoplenty:fir_pyramid_gate",
+			"required": false
+		},
+		{
+			"id": "mcwbiomesoplenty:fir_curved_gate",
+			"required": false
+		},
+		{
+			"id": "mcwbiomesoplenty:hellbark_highly_gate",
+			"required": false
+		},
+		{
+			"id": "mcwbiomesoplenty:hellbark_pyramid_gate",
+			"required": false
+		},
+		{
+			"id": "mcwbiomesoplenty:hellbark_curved_gate",
+			"required": false
+		},
+		{
+			"id": "mcwbiomesoplenty:jacaranda_highly_gate",
+			"required": false
+		},
+		{
+			"id": "mcwbiomesoplenty:jacaranda_pyramid_gate",
+			"required": false
+		},
+		{
+			"id": "mcwbiomesoplenty:jacaranda_curved_gate",
+			"required": false
+		},
+		{
+			"id": "mcwbiomesoplenty:magic_highly_gate",
+			"required": false
+		},
+		{
+			"id": "mcwbiomesoplenty:magic_pyramid_gate",
+			"required": false
+		},
+		{
+			"id": "mcwbiomesoplenty:magic_curved_gate",
+			"required": false
+		},
+		{
+			"id": "mcwbiomesoplenty:mahogany_highly_gate",
+			"required": false
+		},
+		{
+			"id": "mcwbiomesoplenty:mahogany_pyramid_gate",
+			"required": false
+		},
+		{
+			"id": "mcwbiomesoplenty:mahogany_curved_gate",
+			"required": false
+		},
+		{
+			"id": "mcwbiomesoplenty:maple_highly_gate",
+			"required": false
+		},
+		{
+			"id": "mcwbiomesoplenty:maple_pyramid_gate",
+			"required": false
+		},
+		{
+			"id": "mcwbiomesoplenty:maple_curved_gate",
+			"required": false
+		},
+		{
+			"id": "mcwbiomesoplenty:palm_highly_gate",
+			"required": false
+		},
+		{
+			"id": "mcwbiomesoplenty:palm_pyramid_gate",
+			"required": false
+		},
+		{
+			"id": "mcwbiomesoplenty:palm_curved_gate",
+			"required": false
+		},
+		{
+			"id": "mcwbiomesoplenty:pine_highly_gate",
+			"required": false
+		},
+		{
+			"id": "mcwbiomesoplenty:pine_pyramid_gate",
+			"required": false
+		},
+		{
+			"id": "mcwbiomesoplenty:pine_curved_gate",
+			"required": false
+		},
+		{
+			"id": "mcwbiomesoplenty:redwood_highly_gate",
+			"required": false
+		},
+		{
+			"id": "mcwbiomesoplenty:redwood_pyramid_gate",
+			"required": false
+		},
+		{
+			"id": "mcwbiomesoplenty:redwood_curved_gate",
+			"required": false
+		},
+		{
+			"id": "mcwbiomesoplenty:umbran_highly_gate",
+			"required": false
+		},
+		{
+			"id": "mcwbiomesoplenty:umbran_pyramid_gate",
+			"required": false
+		},
+		{
+			"id": "mcwbiomesoplenty:umbran_curved_gate",
+			"required": false
+		},
+		{
+			"id": "mcwbiomesoplenty:willow_highly_gate",
+			"required": false
+		},
+		{
+			"id": "mcwbiomesoplenty:willow_pyramid_gate",
+			"required": false
+		},
+		{
+			"id": "mcwbiomesoplenty:willow_curved_gate",
+			"required": false
+		},
+		{
+			"id": "mcwquark:azalea_highly_gate",
+			"required": false
+		},
+		{
+			"id": "mcwquark:azalea_pyramid_gate",
+			"required": false
+		},
+		{
+			"id": "mcwquark:azalea_curved_gate",
+			"required": false
+		},
+		{
+			"id": "mcwquark:ancient_highly_gate",
+			"required": false
+		},
+		{
+			"id": "mcwquark:ancient_pyramid_gate",
+			"required": false
+		},
+		{
+			"id": "mcwquark:ancient_curved_gate",
+			"required": false
+		},
+		{
+			"id": "mcwquark:blossom_highly_gate",
+			"required": false
+		},
+		{
+			"id": "mcwquark:blossom_pyramid_gate",
+			"required": false
+		},
+		{
+			"id": "mcwquark:blossom_curved_gate",
+			"required": false
+		}
+	]
+}

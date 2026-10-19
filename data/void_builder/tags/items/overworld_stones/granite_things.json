@@ -1,0 +1,43 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:granite",
+		"minecraft:granite_stairs",
+		"minecraft:granite_slab",
+		"minecraft:polished_granite",
+		"minecraft:polished_granite_stairs",
+		"minecraft:polished_granite_slab",
+		{
+			"id": "quark:granite_vertical_slab",
+			"required": false
+		},
+		{
+			"id": "quark:granite_bricks",
+			"required": false
+		},
+		{
+			"id": "quark:chiseled_granite_bricks",
+			"required": false
+		},
+		{
+			"id": "quark:granite_pillar",
+			"required": false
+		},
+		{
+			"id": "quark:granite_bricks_slab",
+			"required": false
+		},
+		{
+			"id": "quark:granite_bricks_vertical_slab",
+			"required": false
+		},
+		{
+			"id": "quark:granite_bricks_stairs",
+			"required": false
+		},
+		{
+			"id": "quark:polished_granite_vertical_slab",
+			"required": false
+		}
+	]
+}

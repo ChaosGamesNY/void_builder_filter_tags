@@ -1,0 +1,173 @@
+{
+	"replace": false,
+	"value": [
+		{
+			"id": "furnish:iron_gate",
+			"required": false
+		},
+		{
+			"id": "mcwfences:stone_brick_railing_gate",
+			"required": false
+		},
+		{
+			"id": "mcwfences:andesite_railing_gate",
+			"required": false
+		},
+		{
+			"id": "mcwfences:diotire_railing_gate",
+			"required": false
+		},
+		{
+			"id": "mcwfences:granite_railing_gate",
+			"required": false
+		},
+		{
+			"id": "mcwfences:sandstone_railing_gate",
+			"required": false
+		},
+		{
+			"id": "mcwfences:red_sandstone_railing_gate",
+			"required": false
+		},
+		{
+			"id": "mcwfences:blackstone_railing_gate",
+			"required": false
+		},
+		{
+			"id": "mcwfences:blackstone_brick_railing_gate",
+			"required": false
+		},
+		{
+			"id": "mcwfences:nether_brick_railing_gate",
+			"required": false
+		},
+		{
+			"id": "mcwfences:end_brick_railing_gate",
+			"required": false
+		},
+		{
+			"id": "mcwfences:deepslate_railing_gate",
+			"required": false
+		},
+		{
+			"id": "mcwfences:deepslate_brick_railing_gate",
+			"required": false
+		},
+		{
+			"id": "mcwfences:quartz_railing_gate",
+			"required": false
+		},
+		{
+			"id": "mcwfences:mud_brick_railing_gate",
+			"required": false
+		},
+		{
+			"id": "mcwfences:prismarine_railing_gate",
+			"required": false
+		},
+		{
+			"id": "mcwfences:majestic_metal_fence_gate",
+			"required": false
+		},
+		{
+			"id": "mcwfences:curved_metal_fence_gate",
+			"required": false
+		},
+		{
+			"id": "mcwfences:mesh_metal_fence_gate",
+			"required": false
+		},
+		{
+			"id": "mcwfences:panelled_metal_fence_gate",
+			"required": false
+		},
+		{
+			"id": "mcwfences:bastion_metal_fence_gate",
+			"required": false
+		},
+		{
+			"id": "mcwquark:soul_sandstone_bricks_railing_gate",
+			"required": false
+		},
+		{
+			"id": "mcwquark:limestone_bricks_railing_gate",
+			"required": false
+		},
+		{
+			"id": "mcwquark:jasper_bricks_railing_gate",
+			"required": false
+		},
+		{
+			"id": "mcwquark:shale_bricks_railing_gate",
+			"required": false
+		},
+		{
+			"id": "mcwquark:permafrost_bricks_railing_gate",
+			"required": false
+		},
+		{
+			"id": "mcwquark:red_sandstone_bricks_railing_gate",
+			"required": false
+		},
+		{
+			"id": "mcwquark:sandstone_bricks_railing_gate",
+			"required": false
+		},
+		{
+			"id": "mcwquark:cobblestone_bricks_railing_gate",
+			"required": false
+		},
+		{
+			"id": "mcwquark:mossy_cobblestone_bricks_railing_gate",
+			"required": false
+		},
+		{
+			"id": "mcwquark:blackstone_bricks_railing_gate",
+			"required": false
+		},
+		{
+			"id": "mcwquark:diorite_bricks_railing_gate",
+			"required": false
+		},
+		{
+			"id": "mcwquark:granite_bricks_railing_gate",
+			"required": false
+		},
+		{
+			"id": "mcwquark:andesite_bricks_railing_gate",
+			"required": false
+		},
+		{
+			"id": "mcwquark:calicte_bricks_railing_gate",
+			"required": false
+		},
+		{
+			"id": "mcwquark:dripstone_bricks_railing_gate",
+			"required": false
+		},
+		{
+			"id": "mcwquark:tuff_bricks_railing_gate",
+			"required": false
+		},
+		{
+			"id": "mcwquark:raw_iron_bricks_railing_gate",
+			"required": false
+		},
+		{
+			"id": "mcwquark:raw_gold_bricks_railing_gate",
+			"required": false
+		},
+		{
+			"id": "mcwquark:raw_copper_bricks_railing_gate",
+			"required": false
+		},
+		{
+			"id": "supplementaries:iron_gate",
+			"required": false
+		},
+		{
+			"id": "supplementaries:gold_gate",
+			"required": false
+		}
+	]
+}

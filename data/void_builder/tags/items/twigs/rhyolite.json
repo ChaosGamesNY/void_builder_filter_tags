@@ -1,0 +1,57 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "twigs:rhyolite",
+			"required": false
+		},
+		{
+			"id": "twigs:rhyolite_stairs",
+			"required": false
+		},
+		{
+			"id": "twigs:rhyolite_slab",
+			"required": false
+		},
+		{
+			"id": "v_slab_compat:twigs/rhyolite_vertical_slab",
+			"required": false
+		},
+		{
+			"id": "twigs:polished_rhyolite",
+			"required": false
+		},
+		{
+			"id": "twigs:polished_rhyolite_stairs",
+			"required": false
+		},
+		{
+			"id": "twigs:polished_rhyolite_slab",
+			"required": false
+		},
+		{
+			"id": "v_slab_compat:twigs/polished_rhyolite_vertical_slab",
+			"required": false
+		},
+		{
+			"id": "twigs:polished_rhyolite_bricks",
+			"required": false
+		},
+		{
+			"id": "twigs:cracked_polished_rhyolite_bricks",
+			"required": false
+		},
+		{
+			"id": "twigs:polished_rhyolite_brick_stairs",
+			"required": false
+		},
+		{
+			"id": "twigs:polished_rhyolite_brick_slab",
+			"required": false
+		},
+		{
+			"id": "v_slab_compat:twigs/polished_rhyolite_brick_vertical_slab",
+			"required": false
+		}
+	]
+}

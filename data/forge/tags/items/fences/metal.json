@@ -1,0 +1,77 @@
+{
+	"replace": false,
+	"value": [
+		{
+			"id": "mcwfences:iron_cheval_de_frise",
+			"required": false
+		},
+		{
+			"id": "mcwfences:acorn_metal_fence",
+			"required": false
+		},
+		{
+			"id": "mcwfences:panelled_metal_fence",
+			"required": false
+		},
+		{
+			"id": "mcwfences:mesh_metal_fence",
+			"required": false
+		},
+		{
+			"id": "mcwfences:orante_metal_fence",
+			"required": false
+		},
+		{
+			"id": "mcwfences:guardian_metal_fence",
+			"required": false
+		},
+		{
+			"id": "mcwfences:gothic_metal_fence",
+			"required": false
+		},
+		{
+			"id": "mcwfences:vintage_metal_fence",
+			"required": false
+		},
+		{
+			"id": "mcwfences:curved_metal_fence",
+			"required": false
+		},
+		{
+			"id": "mcwfences:twilight_metal_fence",
+			"required": false
+		},
+		{
+			"id": "mcwfences:expanded_mesh_metal_fence",
+			"required": false
+		},
+		{
+			"id": "mcwfences:fortress_metal_fence",
+			"required": false
+		},
+		{
+			"id": "mcwfences:bastion_metal_fence",
+			"required": false
+		},
+		{
+			"id": "mcwfences:double_curved_metal_fence",
+			"required": false
+		},
+		{
+			"id": "mcwfences:cathedral_metal_fence",
+			"required": false
+		},
+		{
+			"id": "mcwfences:majestic_metal_fence",
+			"required": false
+		},
+		{
+			"id": "mcwfences:_metal_fence",
+			"required": false
+		},
+		{
+			"id": "adorn_chain_link_fence",
+			"required": false
+		}
+	]
+}

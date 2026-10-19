@@ -1,0 +1,61 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "quark:jasper",
+			"required": false
+		},
+		{
+			"id": "quark:polished_jasper",
+			"required": false
+		},
+		{
+			"id": "quark:jasper_bricks",
+			"required": false
+		},
+		{
+			"id": "quark:chiseled_jasper_bricks",
+			"required": false
+		},
+		{
+			"id": "quark:jasper_pillar",
+			"required": false
+		},
+		{
+			"id": "quark:jasper_bricks_slab",
+			"required": false
+		},
+		{
+			"id": "quark:jasper_bricks_vertical_slab",
+			"required": false
+		},
+		{
+			"id": "quark:jasper_bricks_stairs",
+			"required": false
+		},
+		{
+			"id": "quark:jasper_slab",
+			"required": false
+		},
+		{
+			"id": "quark:jasper_vertical_slab",
+			"required": false
+		},
+		{
+			"id": "quark:jasper_stairs",
+			"required": false
+		},
+		{
+			"id": "quark:polished_jasper_slab",
+			"required": false
+		},
+		{
+			"id": "quark:polished_jasper_vertical_slab",
+			"required": false
+		},
+		{
+			"id": "quark:polished_jasper_stairs",
+			"required": false
+		}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:sponge",
+		"minecraft:wet_sponge",
+		{
+			"id": "#refurbished_furniture:items",
+			"required": false
+		}
+	]
+}

@@ -1,0 +1,158 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:stone_stairs",
+		"minecraft:stone_slab",
+		"minecraft:cobblestone_stairs",
+		"minecraft:cobblestone_slab",
+		"minecraft:mossy_cobblestone",
+		"minecraft:mossy_cobblestone_stairs",
+		"minecraft:mossy_cobblestone_slab",
+		"minecraft:smooth_stone",
+		"minecraft:smooth_stone_slab",
+		"minecraft:stone_bricks",
+		"minecraft:cracked_stone_bricks",
+		"minecraft:stone_brick_stairs",
+		"minecraft:stone_brick_slab",
+		"minecraft:chiseled_stone_bricks",
+		"minecraft:mossy_stone_bricks",
+		"minecraft:mossy_stone_brick_stairs",
+		"minecraft:mossy_stone_brick_slab",
+		{
+			"id": "quark:stone_vertical_slab",
+			"required": false
+		},
+		{
+			"id": "quark:cobblestone_vertical_slab",
+			"required": false
+		},
+		{
+			"id": "quark:cobblestone_bricks",
+			"required": false
+		},
+		{
+			"id": "quark:cobblestone_bricks_stairs",
+			"required": false
+		},
+		{
+			"id": "quark:cobblestone_bricks_slab",
+			"required": false
+		},
+		{
+			"id": "quark:cobblestone_bricks_vertical_slab",
+			"required": false
+		},
+		{
+			"id": "quark:mossy_cobblestone_vertical_slab",
+			"required": false
+		},
+		{
+			"id": "quark:mossy_cobblestone_bricks",
+			"required": false
+		},
+		{
+			"id": "quark:mossy_cobblestone_bricks_stairs",
+			"required": false
+		},
+		{
+			"id": "quark:mossy_cobblestone_bricks_slab",
+			"required": false
+		},
+		{
+			"id": "quark:mossy_cobblestone_bricks_vertical_slab",
+			"required": false
+		},
+		{
+			"id": "quark:smooth_stone_vertical_slab",
+			"required": false
+		},
+		{
+			"id": "quark:sturdy_stone",
+			"required": false
+		},
+		{
+			"id": "quark:mossy_cobblestone_bricks",
+			"required": false
+		},
+		{
+			"id": "quark:stone_brick_vertical_slab",
+			"required": false
+		},
+		{
+			"id": "quark:mossy_stone_brick_vertical_slab",
+			"required": false
+		},
+		{
+			"id": "supplementaries:stone_tile",
+			"required": false
+		},
+		{
+			"id": "supplementaries:stone_tile_stairs",
+			"required": false
+		},
+		{
+			"id": "supplementaries:stone_tile_slab",
+			"required": false
+		},
+		{
+			"id": "twigs:smooth_stone_bricks",
+			"required": false
+		},
+		{
+			"id": "twigs:smooth_stone_brick_stairs",
+			"required": false
+		},
+		{
+			"id": "twigs:smooth_stone_brick_slab",
+			"required": false
+		},
+		{
+			"id": "twigs:stone_column",
+			"required": false
+		},
+		{
+			"id": "twigs:cobblestone_bricks",
+			"required": false
+		},
+		{
+			"id": "twigs:cobblestone_brick_stairs",
+			"required": false
+		},
+		{
+			"id": "twigs:cobblestone_brick_slab",
+			"required": false
+		},
+		{
+			"id": "twigs:cracked_cobblestone_bricks",
+			"required": false
+		},
+		{
+			"id": "twigs:mossy_cobblestone_bricks",
+			"required": false
+		},
+		{
+			"id": "twigs:mossy_cobblestone_brick_stairs",
+			"required": false
+		},
+		{
+			"id": "twigs:mossy_cobblestone_brick_slab",
+			"required": false
+		},
+		{
+			"id": "v_slab_compat:twigs/mossy_cobblestone_brick_vertical_slab",
+			"required": false
+		},
+		{
+			"id": "v_slab_compat:supplementaries/stone_tile_vertical_slab",
+			"required": false
+		},
+		{
+			"id": "v_slab_compat:twigs/smooth_stone_brick_vertical_slab",
+			"required": false
+		},
+		{
+			"id": "v_slab_compat:twigs/cobblestone_brick_vertical_slab",
+			"required": false
+		}
+	]
+}

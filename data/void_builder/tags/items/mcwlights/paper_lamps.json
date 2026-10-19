@@ -1,0 +1,69 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "mcwlights:white_paper_lamp",
+			"required": false
+		},
+		{
+			"id": "mcwlights:light_gray_paper_lamp",
+			"required": false
+		},
+		{
+			"id": "mcwlights:gray_paper_lamp",
+			"required": false
+		},
+		{
+			"id": "mcwlights:black_paper_lamp",
+			"required": false
+		},
+		{
+			"id": "mcwlights:brown_paper_lamp",
+			"required": false
+		},
+		{
+			"id": "mcwlights:red_paper_lamp",
+			"required": false
+		},
+		{
+			"id": "mcwlights:orange_paper_lamp",
+			"required": false
+		},
+		{
+			"id": "mcwlights:yellow_paper_lamp",
+			"required": false
+		},
+		{
+			"id": "mcwlights:lime_paper_lamp",
+			"required": false
+		},
+		{
+			"id": "mcwlights:green_paper_lamp",
+			"required": false
+		},
+		{
+			"id": "mcwlights:cyan_paper_lamp",
+			"required": false
+		},
+		{
+			"id": "mcwlights:light_blue_paper_lamp",
+			"required": false
+		},
+		{
+			"id": "mcwlights:blue_paper_lamp",
+			"required": false
+		},
+		{
+			"id": "mcwlights:purple_paper_lamp",
+			"required": false
+		},
+		{
+			"id": "mcwlights:magenta_paper_lamp",
+			"required": false
+		},
+		{
+			"id": "mcwlights:pink_paper_lamp",
+			"required": false
+		}
+	]
+}

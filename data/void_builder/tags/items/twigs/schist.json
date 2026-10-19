@@ -1,0 +1,57 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "twigs:schist",
+			"required": false
+		},
+		{
+			"id": "twigs:schist_stairs",
+			"required": false
+		},
+		{
+			"id": "twigs:schist_slab",
+			"required": false
+		},
+		{
+			"id": "v_slab_compat:twigs/schist_vertical_slab",
+			"required": false
+		},
+		{
+			"id": "twigs:polished_schist",
+			"required": false
+		},
+		{
+			"id": "twigs:polished_schist_stairs",
+			"required": false
+		},
+		{
+			"id": "twigs:polished_schist_slab",
+			"required": false
+		},
+		{
+			"id": "v_slab_compat:twigs/polished_schist_vertical_slab",
+			"required": false
+		},
+		{
+			"id": "twigs:polished_schist_bricks",
+			"required": false
+		},
+		{
+			"id": "twigs:cracked_polished_schist_bricks",
+			"required": false
+		},
+		{
+			"id": "twigs:polished_schist_brick_stairs",
+			"required": false
+		},
+		{
+			"id": "twigs:polished_schist_brick_slab",
+			"required": false
+		},
+		{
+			"id": "v_slab_compat:twigs/polished_schist_brick_vertical_slab",
+			"required": false
+		}
+	]
+}

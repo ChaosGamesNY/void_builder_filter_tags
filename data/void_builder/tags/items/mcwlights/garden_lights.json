@@ -1,0 +1,29 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "mcwlights:garden_light",
+			"required": false
+		},
+		{
+			"id": "mcwlights:thin_garden_light",
+			"required": false
+		},
+		{
+			"id": "mcwlights:tower_garden_light",
+			"required": false
+		},
+		{
+			"id": "mcwlights:covered_garden_light",
+			"required": false
+		},
+		{
+			"id": "mcwlights:round_garden_light",
+			"required": false
+		},
+		{
+			"id": "mcwlights:striped_garden_light",
+			"required": false
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:oxidized_copper",
+		"minecraft:oxidized_cut_copper",
+		"minecraft:oxidized_cut_copper_stairs",
+		"minecraft:oxidized_cut_copper_slab",
+		{
+			"id": "quark:oxidized_cut_copper_vertical_slab",
+			"required": false
+		},
+		{
+			"id": "twigs:oxidized_copper_pillar",
+			"required": false
+		}
+	]
+}

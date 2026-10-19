@@ -1,0 +1,53 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "biomesoplenty:orange_sandstone",
+			"required": false
+		},
+		{
+			"id": "biomesoplenty:orange_sandstone_stairs",
+			"required": false
+		},
+		{
+			"id": "biomesoplenty:orange_sandstone_slab",
+			"required": false
+		},
+		{
+			"id": "biomesoplenty:chiseled_orange_sandstone",
+			"required": false
+		},
+		{
+			"id": "biomesoplenty:smooth_orange_sandstone",
+			"required": false
+		},
+		{
+			"id": "biomesoplenty:smooth_orange_sandstone_stairs",
+			"required": false
+		},
+		{
+			"id": "biomesoplenty:smooth_orange_sandstone_slab",
+			"required": false
+		},
+		{
+			"id": "biomesoplenty:cut_orange_sandstone",
+			"required": false
+		},
+		{
+			"id": "biomesoplenty:cut_orange_sandstone_slab",
+			"required": false
+		},
+		{
+			"id": "v_slab_compat:biomesoplenty/cut_orange_sandstone_vertical_slab",
+			"required": false
+		},
+		{
+			"id": "v_slab_compat:biomesoplenty/orange_sandstone_vertical_slab",
+			"required": false
+		},
+		{
+			"id": "v_slab_compat:biomesoplenty/smooth_orange_sandstone_vertical_slab",
+			"required": false
+		}
+	]
+}

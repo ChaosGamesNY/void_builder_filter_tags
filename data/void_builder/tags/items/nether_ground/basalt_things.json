@@ -1,0 +1,32 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:basalt",
+		"minecraft:smooth_basalt",
+		"minecraft:polished_basalt",
+		{
+			"id": "twigs:polished_basalt_bricks",
+			"required": false
+		},
+		{
+			"id": "twigs:chiseled_smooth_basalt_bricks",
+			"required": false
+		},
+		{
+			"id": "twigs:smooth_basalt_bricks",
+			"required": false
+		},
+		{
+			"id": "twigs:smooth_basalt_brick_stairs",
+			"required": false
+		},
+		{
+			"id": "twigs:smooth_basalt_brick_slab",
+			"required": false
+		},
+		{
+			"id": "v_slab_compat:twigs/smooth_basalt_brick_vertical_slab",
+			"required": false
+		}
+	]
+}

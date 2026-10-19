@@ -1,0 +1,45 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "#furnish:paper_lamps",
+			"required": false
+		},
+		{
+			"id": "#void_builder:mcwlights/paper_lamps",
+			"required": false
+		},
+		{
+			"id": "quark:paper_lantern",
+			"required": false
+		},
+		{
+			"id": "quark:paper_lantern_sakura",
+			"required": false
+		},
+		{
+			"id": "twigs:paper_lantern",
+			"required": false
+		},
+		{
+			"id": "twigs:allium_paper_lantern",
+			"required": false
+		},
+		{
+			"id": "twigs:blue_orchid_paper_lantern",
+			"required": false
+		},
+		{
+			"id": "twigs:crimson_roots_paper_lantern",
+			"required": false
+		},
+		{
+			"id": "twigs:dandelion_paper_lantern",
+			"required": false
+		},
+		{
+			"id": "twigs:torchflower_paper_lantern",
+			"required": false
+		}
+	]
+}

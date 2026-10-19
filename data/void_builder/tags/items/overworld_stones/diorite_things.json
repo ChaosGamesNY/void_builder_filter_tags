@@ -1,0 +1,43 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:diorite",
+		"minecraft:diorite_stairs",
+		"minecraft:diorite_slab",
+		"minecraft:polished_diorite",
+		"minecraft:polished_diorite_stairs",
+		"minecraft:polished_diorite_slab",
+		{
+			"id": "quark:diorite_vertical_slab",
+			"required": false
+		},
+		{
+			"id": "quark:diorite_bricks",
+			"required": false
+		},
+		{
+			"id": "quark:chiseled_diorite_bricks",
+			"required": false
+		},
+		{
+			"id": "quark:diorite_pillar",
+			"required": false
+		},
+		{
+			"id": "quark:diorite_bricks_slab",
+			"required": false
+		},
+		{
+			"id": "quark:diorite_bricks_vertical_slab",
+			"required": false
+		},
+		{
+			"id": "quark:diorite_bricks_stairs",
+			"required": false
+		},
+		{
+			"id": "quark:polished_diorite_vertical_slab",
+			"required": false
+		}
+	]
+}

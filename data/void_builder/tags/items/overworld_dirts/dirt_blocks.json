@@ -1,0 +1,22 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:grass_block",
+		"minecraft:podzol",
+		"minecraft:mycelium",
+		"minecraft:dirt_path",
+		"minecraft:coarse_dirt",
+		"minecraft:rooted_dirt",
+		"minecraft:farmland",
+		"minecraft:moss_block",
+		"minecraft:moss_carpet",
+		{
+			"id": "decorative_blocks:rocky_dirt",
+			"required": false
+		},
+		{
+			"id": "twigs:rocky_dirt",
+			"required": false
+		}
+	]
+}

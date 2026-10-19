@@ -1,0 +1,61 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "quark:myalite",
+			"required": false
+		},
+		{
+			"id": "quark:polished_myalite",
+			"required": false
+		},
+		{
+			"id": "quark:myalite_bricks",
+			"required": false
+		},
+		{
+			"id": "quark:chiseled_myalite_bricks",
+			"required": false
+		},
+		{
+			"id": "quark:myalite_pillar",
+			"required": false
+		},
+		{
+			"id": "quark:myalite_bricks_slab",
+			"required": false
+		},
+		{
+			"id": "quark:myalite_bricks_vertical_slab",
+			"required": false
+		},
+		{
+			"id": "quark:myalite_bricks_stairs",
+			"required": false
+		},
+		{
+			"id": "quark:myalite_slab",
+			"required": false
+		},
+		{
+			"id": "quark:myalite_vertical_slab",
+			"required": false
+		},
+		{
+			"id": "quark:myalite_stairs",
+			"required": false
+		},
+		{
+			"id": "quark:polished_myalite_slab",
+			"required": false
+		},
+		{
+			"id": "quark:polished_myalite_vertical_slab",
+			"required": false
+		},
+		{
+			"id": "quark:polished_myalite_stairs",
+			"required": false
+		}
+	]
+}

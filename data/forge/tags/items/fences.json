@@ -1,0 +1,12 @@
+{
+	"replace": false,
+	"value": [
+		"#forge:fences/wooden",
+		"#forge:fences/stone",
+		"#forge:fences/metal",
+		{
+			"id": "supplementaries:wicker_fence",
+			"required": false
+		}
+	]
+}

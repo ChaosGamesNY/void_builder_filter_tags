@@ -1,0 +1,65 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "mcwlights:golden_low_candle_holder",
+			"required": false
+		},
+		{
+			"id": "mcwlights:golden_candle_holder",
+			"required": false
+		},
+		{
+			"id": "mcwlights:golden_wall_candle_holder",
+			"required": false
+		},
+		{
+			"id": "mcwlights:golden_double_candle_holder",
+			"required": false
+		},
+		{
+			"id": "mcwlights:golden_triple_candle_holder",
+			"required": false
+		},
+		{
+			"id": "mcwlights:copper_low_candle_holder",
+			"required": false
+		},
+		{
+			"id": "mcwlights:copper_candle_holder",
+			"required": false
+		},
+		{
+			"id": "mcwlights:copper_wall_candle_holder",
+			"required": false
+		},
+		{
+			"id": "mcwlights:copper_double_candle_holder",
+			"required": false
+		},
+		{
+			"id": "mcwlights:copper_triple_candle_holder",
+			"required": false
+		},
+		{
+			"id": "mcwlights:iron_low_candle_holder",
+			"required": false
+		},
+		{
+			"id": "mcwlights:iron_candle_holder",
+			"required": false
+		},
+		{
+			"id": "mcwlights:iron_wall_candle_holder",
+			"required": false
+		},
+		{
+			"id": "mcwlights:iron_double_candle_holder",
+			"required": false
+		},
+		{
+			"id": "mcwlights:iron_triple_candle_holder",
+			"required": false
+		}
+	]
+}
