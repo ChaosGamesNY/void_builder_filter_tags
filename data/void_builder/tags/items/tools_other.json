@@ -3,6 +3,10 @@
 	"values": [
 		"minecraft:sponge",
 		"minecraft:wet_sponge",
+		"minecraft:ladder",
+		"minecraft:scaffolding",
+		"minecraft:lightning_rod",
+		"minecraft:ender_eye",
 		{
 			"id": "#refurbished_furniture:items",
 			"required": false

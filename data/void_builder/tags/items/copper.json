@@ -2,36 +2,16 @@
 	"replace": false,
 	"values": [
 		"#minecraft:copper_ores",
-		"#forge:raw_materials/copper",
-		"#forge:ingots/copper",
-		"#void_builder:copper_things/copper_blocks",
-		"#void_builder:copper_things/exposed_copper_blocks",
-		"#void_builder:copper_things/weathered_copper_blocks",
-		"#void_builder:copper_things/oxidized_copper_blocks",
-		"#void_builder:copper_things/waxed_copper_blocks",
-		"#void_builder:copper_things/waxed_exposed_copper_blocks",
-		"#void_builder:copper_things/waxed_weathered_copper_blocks",
-		"#void_builder:copper_things/waxed_oxidized_copper_blocks",
-		"#void_builder:copper_things/raw_copper_blocks",
-		{
-			"id": "#chipped:waxed_copper_block",
-			"required": false
-		},
-		{
-			"id": "#chipped:waxed_exposed_copper_block",
-			"required": false
-		},
-		{
-			"id": "#chipped:waxed_weathered_copper_block",
-			"required": false
-		},
-		{
-			"id": "#chipped:waxed_oxidized_copper_block",
-			"required": false
-		},
-		{
-			"id": "#chipped:raw_copper_block",
-			"required": false
-		}
+		"minecraft:raw_copper",
+		"minecraft:copper_ingot",
+		"#void_builder:copper/copper_blocks",
+		"#void_builder:copper/exposed_copper_blocks",
+		"#void_builder:copper/weathered_copper_blocks",
+		"#void_builder:copper/oxidized_copper_blocks",
+		"#void_builder:copper/waxed_copper_blocks",
+		"#void_builder:copper/waxed_exposed_copper_blocks",
+		"#void_builder:copper/waxed_weathered_copper_blocks",
+		"#void_builder:copper/waxed_oxidized_copper_blocks",
+		"#void_builder:copper/raw_copper_blocks"
 	]
 }

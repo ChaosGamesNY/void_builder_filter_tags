@@ -1,0 +1,68 @@
+{
+	"values": [
+		{
+			"id": "mcwwindows:white_curtain",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:orange_curtain",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:magenta_curtain",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:light_blue_curtain",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:yellow_curtain",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:lime_curtain",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:pink_curtain",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:gray_curtain",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:light_gray_curtain",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:cyan_curtain",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:purple_curtain",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:blue_curtain",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:brown_curtain",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:green_curtain",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:red_curtain",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:black_curtain",
+			"required": false
+		}
+	]
+}

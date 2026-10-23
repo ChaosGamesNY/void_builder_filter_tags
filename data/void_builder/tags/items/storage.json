@@ -1,0 +1,11 @@
+{
+	"replace": false,
+	"values": [
+		"#minecraft:shulkerboxes",
+		"minecraft:chest",
+		"#forge:chests",
+		"minecraft:barrel",
+		"#forge:barrels",
+		"minecraft:ender_chest"
+	]
+}

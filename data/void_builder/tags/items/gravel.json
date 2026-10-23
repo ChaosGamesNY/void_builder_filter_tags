@@ -2,12 +2,7 @@
 	"replace": false,
 	"values": [
 		"minecraft:gravel",
-		"minecraft:suspicious_gravel",
 		"#forge:gravel",
-		{
-			"id": "#chipped:gravel",
-			"required": false
-		},
 		{
 			"id": "supplementaries:gravel_bricks",
 			"required": false

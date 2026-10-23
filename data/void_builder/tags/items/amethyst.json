@@ -1,8 +1,8 @@
 {
 	"replace": false,
 	"values": [
-		"#forge:gems/amethyst",
-		"#forge:storage_blocks/amethyst",
+		"minecraft:amethyst_shard",
+		"minecraft:amethyst_block",
 		"minecraft:budding_amethyst",
 		"minecraft:small_amethyst_bud",
 		"minecraft:medium_amethyst_bud",

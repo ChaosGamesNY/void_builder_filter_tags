@@ -4,6 +4,8 @@
 		"minecraft:magma_block",
 		"minecraft:obsidian",
 		"#forge:obsidian",
-		"minecraft:crying_obsidian"
+		"minecraft:crying_obsidian",
+		"minecraft:lava_bucket",
+		"minecraft:magma_cream"
 	]
 }

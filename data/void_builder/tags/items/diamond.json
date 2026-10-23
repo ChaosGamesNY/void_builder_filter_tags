@@ -1,12 +1,8 @@
 {
 	"replace": false,
 	"values": [
-		"#minecraft:diamond_ores",
-		"#forge:gems/diamond",
-		"#forge:storage_blocks/diamond",
-		{
-			"id": "#chipped:diamond_block",
-			"required": false
-		}
+		"minecraft:diamond_block",
+		"minecraft:diamond",
+		"#minecraft:diamond_ores"
 	]
 }

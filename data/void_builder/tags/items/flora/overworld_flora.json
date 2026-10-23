@@ -20,6 +20,8 @@
 		"minecraft:large_fern",
 		"minecraft:glow_lichen",
 		"minecraft:hanging_roots",
+		"minecraft:glow_berries",
+		"minecraft:sweet_berries",
 		"minecraft:stick",
 		{
 			"id": "farmersdelight:straw",

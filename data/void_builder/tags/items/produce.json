@@ -1,0 +1,7 @@
+{
+	"replace": false,
+	"values": [
+		"#void_builder:cooking/fruit_ground",
+		"#void_builder:cooking/squash"
+	]
+}

@@ -1,6 +1,9 @@
 {
 	"replace": false,
 	"values": [
-		"minecraft:bone_block"
+		"minecraft:bone_block",
+		"minecraft:slime_block",
+		"minecraft:cobweb",
+		"minecraft:string"
 	]
 }
