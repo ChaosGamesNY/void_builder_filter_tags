@@ -4,6 +4,58 @@
 		{
 			"id": "quark:bamboo_mosaic_vertical_slab",
 			"required": false
+		},
+		{
+			"id": "v_slab_compat:biomesoplenty/dead_vertical_slab",
+			"required": false
+		},
+		{
+			"id": "v_slab_compat:biomesoplenty/redwood_vertical_slab",
+			"required": false
+		},
+		{
+			"id": "v_slab_compat:biomesoplenty/mahogany_vertical_slab",
+			"required": false
+		},
+		{
+			"id": "v_slab_compat:biomesoplenty/empyreal_vertical_slab",
+			"required": false
+		},
+		{
+			"id": "v_slab_compat:biomesoplenty/jacaranda_vertical_slab",
+			"required": false
+		},
+		{
+			"id": "v_slab_compat:biomesoplenty/pine_vertical_slab",
+			"required": false
+		},
+		{
+			"id": "v_slab_compat:biomesoplenty/fir_vertical_slab",
+			"required": false
+		},
+		{
+			"id": "v_slab_compat:biomesoplenty/magic_vertical_slab",
+			"required": false
+		},
+		{
+			"id": "v_slab_compat:biomesoplenty/maple_vertical_slab",
+			"required": false
+		},
+		{
+			"id": "v_slab_compat:biomesoplenty/hellbark_vertical_slab",
+			"required": false
+		},
+		{
+			"id": "v_slab_compat:biomesoplenty/umbran_vertical_slab",
+			"required": false
+		},
+		{
+			"id": "v_slab_compat:biomesoplenty/willow_vertical_slab",
+			"required": false
+		},
+		{
+			"id": "v_slab_compat:biomesoplenty/palm_vertical_slab",
+			"required": false
 		}
 	]
 }
