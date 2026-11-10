@@ -1,0 +1,13 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "vc_gliders:copper_upgrade",
+			"required": false
+		},
+		{
+			"id": "vc_gliders:nether_upgrade",
+			"required": false
+		}
+	]
+}

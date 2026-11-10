@@ -1,0 +1,18 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:iron_bars",
+		{
+			"id": "decorative_blocks:bar_panel",
+			"required": false
+		},
+		{
+			"id": "furnish:iron_bars_top",
+			"required": false
+		},
+		{
+			"id": "quark:gold_bars",
+			"required": false
+		}
+	]
+}

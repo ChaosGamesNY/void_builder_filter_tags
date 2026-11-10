@@ -4,6 +4,7 @@
 		"minecraft:bone_block",
 		"minecraft:slime_block",
 		"minecraft:cobweb",
-		"minecraft:string"
+		"minecraft:string",
+		"minecraft:ender_pearl"
 	]
 }

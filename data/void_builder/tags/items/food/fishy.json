@@ -1,0 +1,17 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "aquaculture:fish_fillet_cooked",
+			"required": false
+		},
+		{
+			"id": "aquaculture:trutle_soup",
+			"required": false
+		},
+		{
+			"id": "aquaculture:sushi",
+			"required": false
+		}
+	]
+}

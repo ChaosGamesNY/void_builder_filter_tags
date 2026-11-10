@@ -1,0 +1,55 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:leather_chestplate",
+		"minecraft:chainmail_chestplate",
+		"minecraft:iron_chestplate",
+		"minecraft:golden_chestplate",
+		"minecraft:diamond_chestplate",
+		"minecraft:netherite_chestplate",
+		{
+			"id": "aquaculture:neptunium_chestplate",
+			"required": false
+		},
+		{
+			"id": "immersive_armors:bone_chestplate",
+			"required": false
+		},
+		{
+			"id": "immersive_armors:wither_chestplate",
+			"required": false
+		},
+		{
+			"id": "immersive_armors:warrior_chestplate",
+			"required": false
+		},
+		{
+			"id": "immersive_armors:heavy_chestplate",
+			"required": false
+		},
+		{
+			"id": "immersive_armors:robe_chestplate",
+			"required": false
+		},
+		{
+			"id": "immersive_armors:slime_chestplate",
+			"required": false
+		},
+		{
+			"id": "immersive_armors:divine_chestplate",
+			"required": false
+		},
+		{
+			"id": "immersive_armors:prismarine_chestplate",
+			"required": false
+		},
+		{
+			"id": "immersive_armors:wooden_chestplate",
+			"required": false
+		},
+		{
+			"id": "immersive_armors:steampunk_chestplate",
+			"required": false
+		}
+	]
+}

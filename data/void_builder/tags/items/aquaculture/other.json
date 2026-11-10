@@ -1,0 +1,113 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "aquaculture:worm",
+			"required": false
+		},
+		{
+			"id": "aquaculture:fishing_line",
+			"required": false
+		},
+		{
+			"id": "aquaculture:bobber",
+			"required": false
+		},
+		{
+			"id": "aquaculture:neptunium_nugget",
+			"required": false
+		},
+		{
+			"id": "aquaculture:neptunium_ingot",
+			"required": false
+		},
+		{
+			"id": "aquaculture:tin_can",
+			"required": false
+		},
+		{
+			"id": "aquaculture:message_in_a_bottle",
+			"required": false
+		},
+		{
+			"id": "aquaculture:box",
+			"required": false
+		},
+		{
+			"id": "aquaculture:lockbox",
+			"required": false
+		},
+		{
+			"id": "aquaculture:treasure_chest",
+			"required": false
+		},
+		{
+			"id": "aquaculture:algae",
+			"required": false
+		},
+		{
+			"id": "aquaculture:fish_bones",
+			"required": false
+		},
+		{
+			"id": "aquaculture:leech",
+			"required": false
+		},
+		{
+			"id": "aquaculture:goldfish",
+			"required": false
+		},
+		{
+			"id": "aquaculture:box_turtle",
+			"required": false
+		},
+		{
+			"id": "aquaculture:arrau_turtle",
+			"required": false
+		},
+		{
+			"id": "aquaculture:starshell_turtle",
+			"required": false
+		},
+		{
+			"id": "aquaculture:oak_fish_mount",
+			"required": false
+		},
+		{
+			"id": "aquaculture:spruce_fish_mount",
+			"required": false
+		},
+		{
+			"id": "aquaculture:birch_fish_mount",
+			"required": false
+		},
+		{
+			"id": "aquaculture:jungle_fish_mount",
+			"required": false
+		},
+		{
+			"id": "aquaculture:acacia_fish_mount",
+			"required": false
+		},
+		{
+			"id": "aquaculture:dark_oak_fish_mount",
+			"required": false
+		},
+		{
+			"id": "aquaculture:neptunium_block",
+			"required": false
+		},
+		{
+			"id": "aquaculture:neptunes_bounty",
+			"required": false
+		},
+		{
+			"id": "aquaculture:tackle_box",
+			"required": false
+		},
+		{
+			"id": "aquaculture:worm_farm",
+			"required": false
+		}
+	]
+}

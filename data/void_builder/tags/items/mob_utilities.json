@@ -5,6 +5,16 @@
 		"minecraft:carved_pumpkin",
 		"minecraft:hay_block",
 		"minecraft:bee_nest",
-		"minecraft:beehive"
+		"minecraft:beehive",
+		"minecraft:shears",
+		"minecraft:name_tag",
+		"minecraft:lead",
+		"minecraft:saddle",
+		"minecraft:carrot_on_a_stick",
+		"minecraft:warped_fungus_on_a_stick",
+		"minecraft:leather_horse_armor",
+		"minecraft:iron_horse_armor",
+		"minecraft:golden_horse_armor",
+		"minecraft:diamond_horse_armor"
 	]
 }

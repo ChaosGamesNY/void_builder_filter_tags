@@ -1,0 +1,18 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:chain",
+		{
+			"id": "decorative_blocks:chain",
+			"required": false
+		},
+		{
+			"id": "mcwlights:golden_chain",
+			"required": false
+		},
+		{
+			"id": "mcwlights:copper_chain",
+			"required": false
+		}
+	]
+}

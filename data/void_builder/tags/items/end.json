@@ -10,6 +10,10 @@
 		"minecraft:purpur_stairs",
 		"minecraft:purpur_slab",
 		"minecraft:chorus_plant",
-		"minecraft:chorus_flower"
+		"minecraft:chorus_flower",
+		"minecraft:end_portal_frame",
+		"minecraft:chorus_fruit",
+		"minecraft:shulker_shell",
+		"minecraft:popped_chorus_fruit"
 	]
 }

@@ -1,0 +1,8 @@
+{
+	"replace": false,
+	"values": [
+		"#void_builder:quartz",
+		"minecraft:nether_star",
+		"minecraft:blaze_rod"
+	]
+}

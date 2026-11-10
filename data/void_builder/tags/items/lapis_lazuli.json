@@ -3,6 +3,18 @@
 	"values": [
 		"minecraft:lapis_lazuli",
 		"minecraft:lapis_block",
-		"#minecraft:lapis_ores"
+		"#minecraft:lapis_ores",
+		{
+			"id": "supplementaries:lapis_bricks",
+			"required": false
+		},
+		{
+			"id": "supplementaries:lapis_bricks_slab",
+			"required": false
+		},
+		{
+			"id": "v_slab_compat:supplementaries/lapis_bricks_vertical_slab",
+			"required": false
+		}
 	]
 }

@@ -1,0 +1,25 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "vc_gliders:reinforced_paper",
+			"required": false
+		},
+		{
+			"id": "vc_gliders:reinforced_paper_iron",
+			"required": false
+		},
+		{
+			"id": "vc_gliders:reinforced_paper_gold",
+			"required": false
+		},
+		{
+			"id": "vc_gliders:reinforced_paper_diamond",
+			"required": false
+		},
+		{
+			"id": "vc_gliders:reinforced_paper_netherite",
+			"required": false
+		}
+	]
+}

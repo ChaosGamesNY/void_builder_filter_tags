@@ -1,0 +1,41 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "aquaculture:iron_hook",
+			"required": false
+		},
+		{
+			"id": "aquaculture:gold_hook",
+			"required": false
+		},
+		{
+			"id": "aquaculture:diamond_hook",
+			"required": false
+		},
+		{
+			"id": "aquaculture:light_hook",
+			"required": false
+		},
+		{
+			"id": "aquaculture:heavy_hook",
+			"required": false
+		},
+		{
+			"id": "aquaculture:double_hook",
+			"required": false
+		},
+		{
+			"id": "aquaculture:redstone_hook",
+			"required": false
+		},
+		{
+			"id": "aquaculture:note_hook",
+			"required": false
+		},
+		{
+			"id": "aquaculture:nether_star_hook",
+			"required": false
+		}
+	]
+}
