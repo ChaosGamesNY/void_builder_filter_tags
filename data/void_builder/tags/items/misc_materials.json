@@ -1,6 +1,16 @@
 {
 	"replace": false,
 	"values": [
-		"minecraft:honeycomb_block"
+		"minecraft:honeycomb_block",
+		"minecraft:string",
+		"minecraft:flint",
+		"minecraft:feather",
+		"minecraft:leather",
+		"minecraft:rabbit_hide",
+		"minecraft:honeycomb",
+		"minecraft:ink_sac",
+		"minecraft:glow_ink_sac",
+		"minecraft:scute",
+		"minecraft:paper"
 	]
 }

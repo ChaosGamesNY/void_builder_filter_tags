@@ -1,12 +1,9 @@
 {
 	"replace": false,
 	"values": [
-		"minecraft:sponge",
-		"minecraft:wet_sponge",
 		"minecraft:ladder",
 		"minecraft:scaffolding",
 		"minecraft:lightning_rod",
-		"minecraft:ender_eye",
 		"minecraft:bucket",
 		"minecraft:water_bucket",
 		"#forge:tools/knives",

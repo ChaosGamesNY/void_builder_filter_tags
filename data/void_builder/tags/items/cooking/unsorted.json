@@ -2,10 +2,14 @@
 	"replace": false,
 	"values": [
 		"minecraft:sugar_cane",
+		"minecraft:sugar",
 		"minecraft:cocoa_beans",
+		"minecraft:dried_kelp",
 		"minecraft:dried_kelp_block",
+		"minecraft:honey_bottle",
 		"minecraft:honey_block",
 		"minecraft:milk_bucket",
-		"minecraft:egg"
+		"minecraft:egg",
+		"minecraft:bread"
 	]
 }

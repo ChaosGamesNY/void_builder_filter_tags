@@ -1,0 +1,8 @@
+{
+	"replace": false,
+	"values": [
+		"#void_builder:cooking/mushrooms",
+		"#void_builder:cooking/berries_other",
+		"#void_builder:cooking/unsorted"
+	]
+}

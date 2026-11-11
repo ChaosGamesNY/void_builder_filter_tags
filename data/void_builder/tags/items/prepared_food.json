@@ -1,0 +1,9 @@
+{
+	"replace": false,
+	"values": [
+		"#void_builder:prepared_food/fishy",
+		"#void_builder:prepared_food/soups_stews",
+		"#void_builder:prepared_food/sweets",
+		"#void_builder:prepared_food/vegetarian"
+	]
+}

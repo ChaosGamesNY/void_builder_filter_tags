@@ -1,0 +1,9 @@
+{
+	"replace": false,
+	"values": [
+		"#void_builder:cooking/fruit_ground",
+		"#void_builder:cooking/fruit_tree",
+		"#void_builder:cooking/squash",
+		"#void_builder:cooking/vegetable_underground"
+	]
+}

@@ -4,7 +4,12 @@
 		"minecraft:bone_block",
 		"minecraft:slime_block",
 		"minecraft:cobweb",
-		"minecraft:string",
-		"minecraft:ender_pearl"
+		"minecraft:ender_pearl",
+		"minecraft:rotten_flesh",
+		"minecraft:spider_eye",
+		"minecraft:bone",
+		"minecraft:slime_ball",
+		"minecraft:fermented_spider_eye",
+		"minecraft:phantom_membrane"
 	]
 }

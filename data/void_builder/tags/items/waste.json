@@ -1,0 +1,15 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:poisonous_potato",
+		"minecraft:grass",
+		"minecraft:tall_grass",
+		"minecraft:warped_roots",
+		"minecraft:nether_sprouts",
+		"minecraft:hanging_roots",
+		{
+			"id": "twigs:bamboo_leaves",
+			"required": false
+		}
+	]
+}

@@ -2,7 +2,11 @@
 	"replace": false,
 	"values": [
 		"#void_builder:quartz",
+		"minecraft:blaze_rod",
 		"minecraft:nether_star",
-		"minecraft:blaze_rod"
+		"minecraft:glowstone_dust",
+		"minecraft:blaze_powder",
+		"minecraft:magma_cream",
+		"minecraft:ghast_tear"
 	]
 }
