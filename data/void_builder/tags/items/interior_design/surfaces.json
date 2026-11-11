@@ -1,0 +1,17 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "#adorn:tables",
+			"required": false
+		},
+		{
+			"id": "#adorn:shelves",
+			"required": false
+		},
+		{
+			"id": "#adorn:coffee_tables",
+			"required": false
+		}
+	]
+}

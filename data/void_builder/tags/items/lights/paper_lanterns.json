@@ -6,7 +6,7 @@
 			"required": false
 		},
 		{
-			"id": "#void_builder:mcwlights/paper_lamps",
+			"id": "#void_builder:lights/mcwlights/paper_lamps",
 			"required": false
 		},
 		{

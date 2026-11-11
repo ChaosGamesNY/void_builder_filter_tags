@@ -4,8 +4,8 @@
 		"minecraft:soul_torch",
 		"minecraft:soul_lantern",
 		"minecraft:soul_campfire",
-		"#void_builder:mcwlights/soul_street_lamps",
-		"#void_builder:mcwlights/soul_tiki_torches",
+		"#void_builder:lights/mcwlights/soul_street_lamps",
+		"#void_builder:lights/mcwlights/soul_tiki_torches",
 		{
 			"id": "decorative_blocks:soul_chandelier",
 			"required": false

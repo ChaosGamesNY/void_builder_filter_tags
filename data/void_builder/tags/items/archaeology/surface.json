@@ -4,6 +4,7 @@
 		"minecraft:suspicious_sand",
 		"minecraft:suspicious_gravel",
 		"minecraft:decorated_pot",
-		"minecraft:brush"
+		"minecraft:brush",
+		"#minecraft:decorated_pot_sherds"
 	]
 }

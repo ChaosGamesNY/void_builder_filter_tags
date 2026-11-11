@@ -7,7 +7,7 @@
 			"required": false
 		},
 		{
-			"id": "#void_builder:mcwlights/lanterns",
+			"id": "#void_builder:lights/mcwlights/lanterns",
 			"required": false
 		},
 		{

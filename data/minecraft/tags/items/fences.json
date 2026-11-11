@@ -1,12 +1,12 @@
 {
 	"replace": false,
-	"value": [
+	"values": [
 		{
 			"id": "adorn:picket_fence",
 			"required": false
 		},
 		{
-			"id": "adorn_chain_link_fence",
+			"id": "adorn:chain_link_fence",
 			"required": false
 		},
 		{

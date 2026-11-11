@@ -1,0 +1,17 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "#adorn:sofas",
+			"required": false
+		},
+		{
+			"id": "#adorn:chairs",
+			"required": false
+		},
+		{
+			"id": "#adorn:benches",
+			"required": false
+		}
+	]
+}

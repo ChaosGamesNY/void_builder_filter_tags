@@ -1,0 +1,7 @@
+{
+	"replace": false,
+	"values": [
+		"#void_builder:cooking/ingredients/scavenged",
+		"#void_builder:cooking/ingredients/baking"
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:writable_book",
+		"minecraft:written_book",
+		"minecraft:book",
+		"minecraft:enchanted_book",
+		{
+			"id": "adorn:guide_book",
+			"required": false
+		},
+		{
+			"id": "adorn:traders_manual",
+			"required": false
+		}
+	]
+}

@@ -1,0 +1,44 @@
+{
+	"values": [
+		{
+			"id": "mcwwindows:oak_blinds",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:spruce_blinds",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:birch_blinds",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:jungle_blinds",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:acacia_blinds",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:dark_oak_blinds",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:crimson_blinds",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:warped_blinds",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:mangrove_blinds",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:cherry_blinds",
+			"required": false
+		}
+	]
+}

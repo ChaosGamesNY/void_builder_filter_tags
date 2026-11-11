@@ -1,6 +1,6 @@
 {
 	"replace": false,
-	"value": [
+	"values": [
 		"#forge:fences/wooden",
 		"#forge:fences/stone",
 		"#forge:fences/metal",

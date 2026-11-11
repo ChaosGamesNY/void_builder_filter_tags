@@ -1,6 +1,6 @@
 {
 	"replace": false,
-	"value": [
+	"values": [
 		{
 			"id": "mcwfences:iron_cheval_de_frise",
 			"required": false
@@ -70,7 +70,7 @@
 			"required": false
 		},
 		{
-			"id": "adorn_chain_link_fence",
+			"id": "adorn:chain_link_fence",
 			"required": false
 		}
 	]

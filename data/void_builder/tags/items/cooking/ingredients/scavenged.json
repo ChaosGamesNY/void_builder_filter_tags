@@ -1,0 +1,11 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:kelp",
+		"minecraft:dried_kelp",
+		"minecraft:dried_kelp_block",
+		"minecraft:sweet_berries",
+		"minecraft:brown_mushroom",
+		"minecraft:red_mushroom"
+	]
+}

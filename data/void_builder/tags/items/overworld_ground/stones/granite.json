@@ -1,0 +1,19 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:granite",
+		"minecraft:polished_granite",
+		{
+			"id": "quark:granite_bricks",
+			"required": false
+		},
+		{
+			"id": "quark:chiseled_granite_bricks",
+			"required": false
+		},
+		{
+			"id": "quark:granite_pillar",
+			"required": false
+		}
+	]
+}

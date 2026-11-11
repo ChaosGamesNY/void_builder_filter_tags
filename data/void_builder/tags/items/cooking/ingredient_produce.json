@@ -1,0 +1,10 @@
+{
+	"replace": false,
+	"values": [
+		"#void_builder:cooking/produce/fruit_ground",
+		"#void_builder:cooking/produce/fruit_tree",
+		"#void_builder:cooking/produce/grains",
+		"#void_builder:cooking/produce/squash",
+		"#void_builder:cooking/produce/vegetable_underground"
+	]
+}

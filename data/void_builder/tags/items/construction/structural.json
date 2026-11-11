@@ -1,0 +1,23 @@
+{
+	"replace": false,
+	"values": [
+		"#minecraft:stairs",
+		"#minecraft:slabs",
+		{
+			"id": "#adorn:posts",
+			"required": false
+		},
+		{
+			"id": "#adorn:platforms",
+			"required": false
+		},
+		{
+			"id": "#adorn:steps",
+			"required": false
+		},
+		{
+			"id": "#quark:vertical_slabs",
+			"required": false
+		}
+	]
+}

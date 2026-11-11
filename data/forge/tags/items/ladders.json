@@ -1,0 +1,22 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:ladder",
+		{
+			"id": "adorn:stone_ladder",
+			"required": false
+		},
+		{
+			"id": "#chipped:ladder",
+			"required": false
+		},
+		{
+			"id": "#furnish:ladders",
+			"required": false
+		},
+		{
+			"id": "#quark:ladders",
+			"required": false
+		}
+	]
+}

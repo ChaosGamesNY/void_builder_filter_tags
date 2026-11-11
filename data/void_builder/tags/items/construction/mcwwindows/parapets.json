@@ -1,0 +1,108 @@
+{
+	"values": [
+		{
+			"id": "mcwwindows:oak_log_parapet",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:spruce_log_parapet",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:birch_log_parapet",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:jungle_log_parapet",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:acacia_log_parapet",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:dark_oak_log_parapet",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:crimson_stem_parapet",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:warped_stem_parapet",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:mangrove_log_parapet",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:cherry_log_parapet",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:oak_plank_parapet",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:spruce_plank_parapet",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:birch_plank_parapet",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:jungle_plank_parapet",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:acacia_plank_parapet",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:dark_oak_plank_parapet",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:crimson_plank_parapet",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:warped_plank_parapet",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:mangrove_plank_parapet",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:cherry_plank_parapet",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:andesite_parapet",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:diorite_parapet",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:granite_parapet",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:blackstone_parapet",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:prismarine_parapet",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:dark_prismarine_parapet",
+			"required": false
+		}
+	]
+}

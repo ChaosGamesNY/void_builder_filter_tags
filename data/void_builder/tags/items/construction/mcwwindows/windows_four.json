@@ -1,0 +1,176 @@
+{
+	"values": [
+		{
+			"id": "mcwwindows:oak_four_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:oak_plank_four_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:spruce_four_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:spruce_plank_four_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:birch_four_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:birch_plank_four_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:jungle_four_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:jungle_plank_four_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:acacia_four_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:acacia_plank_four_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:dark_oak_four_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:dark_oak_plank_four_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:mangrove_four_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:mangrove_plank_four_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:cherry_four_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:cherry_plank_four_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:stripped_oak_log_four_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:stripped_spruce_log_four_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:stripped_birch_log_four_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:stripped_jungle_log_four_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:stripped_acacia_log_four_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:stripped_dark_oak_log_four_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:stripped_mangrove_log_four_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:stripped_cherry_log_four_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:crimson_stem_four_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:warped_stem_four_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:stripped_crimson_stem_four_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:stripped_warped_stem_four_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:crimson_planks_four_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:warped_planks_four_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:andesite_four_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:diorite_four_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:granite_four_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:stone_four_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:dark_prismarine_four_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:prismarine_four_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:blackstone_four_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:deepslate_four_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:sandstone_four_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:red_sandstone_four_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:bricks_four_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:quartz_four_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:metal_four_window",
+			"required": false
+		}
+	]
+}

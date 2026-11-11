@@ -1,0 +1,15 @@
+{
+	"replace": false,
+	"values": [
+		"#forge:ladders",
+		"#minecraft:boats",
+		"#minecraft:compasses",
+		"minecraft:spyglass",
+		"minecraft:map",
+		"minecraft:goat_horn",
+		"minecraft:totem_of_undying",
+		"minecraft:golden_apple",
+		"minecraft:enchanted_golden_apple",
+		"minecraft:experience_bottle"
+	]
+}

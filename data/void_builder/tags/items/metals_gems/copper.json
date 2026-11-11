@@ -1,0 +1,17 @@
+{
+	"replace": false,
+	"values": [
+		"#minecraft:copper_ores",
+		"minecraft:raw_copper",
+		"minecraft:copper_ingot",
+		"#void_builder:metals_gems/copper/copper_blocks",
+		"#void_builder:metals_gems/copper/exposed_copper_blocks",
+		"#void_builder:metals_gems/copper/weathered_copper_blocks",
+		"#void_builder:metals_gems/copper/oxidized_copper_blocks",
+		"#void_builder:metals_gems/copper/waxed_copper_blocks",
+		"#void_builder:metals_gems/copper/waxed_exposed_copper_blocks",
+		"#void_builder:metals_gems/copper/waxed_weathered_copper_blocks",
+		"#void_builder:metals_gems/copper/waxed_oxidized_copper_blocks",
+		"#void_builder:metals_gems/copper/raw_copper_blocks"
+	]
+}

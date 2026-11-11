@@ -13,7 +13,7 @@
 		"minecraft:redstone_lamp",
 		"#void_builder:lights/paper_lanterns",
 		"#void_builder:lights/water_lights",
-		"#void_builder:mcwlights",
+		"#void_builder:lights/mcwlights",
 		{
 			"id": "#adorn:table_lamps",
 			"required": false

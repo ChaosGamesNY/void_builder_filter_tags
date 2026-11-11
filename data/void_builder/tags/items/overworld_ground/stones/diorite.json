@@ -1,0 +1,19 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:diorite",
+		"minecraft:polished_diorite",
+		{
+			"id": "quark:diorite_bricks",
+			"required": false
+		},
+		{
+			"id": "quark:chiseled_diorite_bricks",
+			"required": false
+		},
+		{
+			"id": "quark:diorite_pillar",
+			"required": false
+		}
+	]
+}

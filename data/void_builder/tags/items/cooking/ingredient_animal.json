@@ -1,0 +1,9 @@
+{
+	"replace": false,
+	"values": [
+		"#void_builder:cooking/animal/dairy",
+		"#void_builder:cooking/animal/eggs",
+		"#void_builder:cooking/animal/fishy",
+		"#void_builder:cooking/animal/meat"
+	]
+}

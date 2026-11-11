@@ -1,6 +1,6 @@
 {
 	"replace": false,
-	"value": [
+	"values": [
 		{
 			"id": "furnish:iron_gate",
 			"required": false

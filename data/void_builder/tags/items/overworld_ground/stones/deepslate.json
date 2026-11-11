@@ -1,0 +1,16 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:chiseled_deepslate",
+		"minecraft:polished_deepslate",
+		"minecraft:deepslate_bricks",
+		"minecraft:cracked_deepslate_bricks",
+		"minecraft:deepslate_tiles",
+		"minecraft:cracked_deepslate_tiles",
+		"minecraft:reinforced_deepslate",
+		{
+			"id": "twigs:deepslate_column",
+			"required": false
+		}
+	]
+}

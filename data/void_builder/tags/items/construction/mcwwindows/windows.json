@@ -1,0 +1,200 @@
+{
+	"values": [
+		{
+			"id": "mcwwindows:oak_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:spruce_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:birch_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:jungle_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:acacia_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:dark_oak_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:crimson_stem_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:warped_stem_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:mangrove_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:cherry_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:oak_plank_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:spruce_plank_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:birch_plank_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:jungle_plank_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:acacia_plank_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:dark_oak_plank_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:crimson_planks_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:warped_planks_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:mangrove_plank_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:cherry_plank_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:dark_prismarine_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:prismarine_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:blackstone_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:stripped_oak_log_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:stripped_spruce_log_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:stripped_birch_log_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:stripped_jungle_log_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:stripped_acacia_log_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:stripped_dark_oak_log_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:stripped_crimson_stem_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:stripped_warped_stem_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:stripped_mangrove_log_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:stripped_cherry_log_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:andesite_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:diorite_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:granite_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:stone_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:deepslate_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:deepslate_pane_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:sandstone_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:sandstone_pane_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:red_sandstone_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:red_sandstone_pane_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:bricks_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:bricks_pane_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:quartz_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:quartz_pane_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:metal_window",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:metal_pane_window",
+			"required": false
+		}
+	]
+}

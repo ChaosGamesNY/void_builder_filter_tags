@@ -1,0 +1,11 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:sugar_cane",
+		"minecraft:sugar",
+		"minecraft:cocoa_beans",
+		"minecraft:honey_bottle",
+		"minecraft:honey_block",
+		"minecraft:bread"
+	]
+}

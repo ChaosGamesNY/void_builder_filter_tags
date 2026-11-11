@@ -1,0 +1,10 @@
+{
+	"replace": false,
+	"values": [
+		"#void_builder:adventure/ocean_loot/prismarine",
+		"minecraft:sponge",
+		"minecraft:wet_sponge",
+		"minecraft:nautilus_shell",
+		"minecraft:heart_of_the_sea"
+	]
+}

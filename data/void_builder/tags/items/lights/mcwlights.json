@@ -1,0 +1,21 @@
+{
+	"replace": false,
+	"values": [
+		"#void_builder:lights/mcwlights/candle_holders",
+		"#void_builder:lights/mcwlights/ceiling_fan_lights",
+		"#void_builder:lights/mcwlights/ceiling_lights",
+		"#void_builder:lights/mcwlights/chandeliers",
+		"#void_builder:lights/mcwlights/garden_lights",
+		"#void_builder:lights/mcwlights/lamps",
+		"#void_builder:lights/mcwlights/lanterns",
+		"#void_builder:lights/mcwlights/lava_lamps",
+		"#void_builder:lights/mcwlights/paper_lamps",
+		"#void_builder:lights/mcwlights/slab_lights",
+		"#void_builder:lights/mcwlights/soul_street_lamps",
+		"#void_builder:lights/mcwlights/soul_tiki_torches",
+		"#void_builder:lights/mcwlights/street_lamps",
+		"#void_builder:lights/mcwlights/tiki_torches",
+		"#void_builder:lights/mcwlights/wall_lamps",
+		"#void_builder:lights/mcwlights/wall_lanterns"
+	]
+}

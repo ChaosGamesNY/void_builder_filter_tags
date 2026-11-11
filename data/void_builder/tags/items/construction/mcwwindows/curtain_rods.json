@@ -1,0 +1,52 @@
+{
+	"values": [
+		{
+			"id": "mcwwindows:oak_curtain_rod",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:spruce_curtain_rod",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:birch_curtain_rod",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:jungle_curtain_rod",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:acacia_curtain_rod",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:dark_oak_curtain_rod",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:crimson_curtain_rod",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:warped_curtain_rod",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:mangrove_curtain_rod",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:cherry_curtain_rod",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:metal_curtain_rod",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:golden_curtain_rod",
+			"required": false
+		}
+	]
+}

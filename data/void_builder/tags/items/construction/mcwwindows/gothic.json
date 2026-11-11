@@ -1,0 +1,32 @@
+{
+	"values": [
+		{
+			"id": "mcwwindows:stone_brick_gothic",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:end_brick_gothic",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:nether_brick_gothic",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:prismarine_brick_gothic",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:mud_brick_gothic",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:blackstone_brick_gothic",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:dark_prismarine_brick_gothic",
+			"required": false
+		}
+	]
+}

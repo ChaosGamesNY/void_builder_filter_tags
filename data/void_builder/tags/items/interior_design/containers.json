@@ -1,0 +1,15 @@
+{
+	"replace": false,
+	"values": [
+		"#minecraft:shulker_boxes",
+		"minecraft:chest",
+		"#forge:chests",
+		"minecraft:barrel",
+		"#forge:barrels",
+		"minecraft:ender_chest",
+		{
+			"id": "#adorn:drawers",
+			"required": false
+		}
+	]
+}

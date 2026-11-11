@@ -1,0 +1,19 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:andesite",
+		"minecraft:polished_andesite",
+		{
+			"id": "quark:andesite_bricks",
+			"required": false
+		},
+		{
+			"id": "quark:chiseled_andesite_bricks",
+			"required": false
+		},
+		{
+			"id": "quark:andesite_pillar",
+			"required": false
+		}
+	]
+}

@@ -29,6 +29,10 @@
 		"#forge:bookshelves",
 		"minecraft:chiseled_bookshelf",
 		"minecraft:lectern",
-		"minecraft:respawn_anchor"
+		"minecraft:respawn_anchor",
+		{
+			"id": "adorn:trading_station",
+			"required": false
+		}
 	]
 }

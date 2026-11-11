@@ -1,0 +1,12 @@
+{
+	"replace": false,
+	"values": [
+		"#void_builder:metals_gems/quartz",
+		"minecraft:blaze_rod",
+		"minecraft:nether_star",
+		"minecraft:glowstone_dust",
+		"minecraft:blaze_powder",
+		"minecraft:magma_cream",
+		"minecraft:ghast_tear"
+	]
+}

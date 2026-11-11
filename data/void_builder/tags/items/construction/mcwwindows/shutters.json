@@ -1,0 +1,100 @@
+{
+	"values": [
+		{
+			"id": "mcwwindows:oak_shutter",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:spruce_shutter",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:birch_shutter",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:jungle_shutter",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:acacia_shutter",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:dark_oak_shutter",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:crimson_shutter",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:warped_shutter",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:mangrove_shutter",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:cherry_shutter",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:bamboo_shutter",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:oak_louvered_shutter",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:spruce_louvered_shutter",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:birch_louvered_shutter",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:jungle_louvered_shutter",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:acacia_louvered_shutter",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:dark_oak_louvered_shutter",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:crimson_louvered_shutter",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:warped_louvered_shutter",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:mangrove_louvered_shutter",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:cherry_louvered_shutter",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:andesite_louvered_shutter",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:diorite_louvered_shutter",
+			"required": false
+		},
+		{
+			"id": "mcwwindows:granite_louvered_shutter",
+			"required": false
+		}		 
+	]
+}

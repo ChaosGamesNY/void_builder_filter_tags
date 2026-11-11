@@ -1,0 +1,10 @@
+{
+	"replace": false,
+	"values": [
+		"#void_builder:cooking/cooking_other/cooking_tools",
+		{
+			"id": "#adorn:crates",
+			"required": false
+		}
+	]
+}

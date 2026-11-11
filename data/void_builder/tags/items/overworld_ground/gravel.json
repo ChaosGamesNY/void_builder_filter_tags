@@ -1,0 +1,27 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:gravel",
+		"#forge:gravel",
+		{
+			"id": "supplementaries:gravel_bricks",
+			"required": false
+		},
+		{
+			"id": "supplementaries:suspicious_gravel_bricks",
+			"required": false
+		},
+		{
+			"id": "supplementaries:raked_gravel",
+			"required": false
+		},
+		{
+			"id": "mcwpaths:gravel_path_block",
+			"required": false
+		},
+		{
+			"id": "twigs:gravel_bricks",
+			"required": false
+		}
+	]
+}

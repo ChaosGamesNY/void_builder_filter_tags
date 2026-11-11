@@ -1,0 +1,23 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:dripstone_block",
+		"minecraft:pointed_dripstone",
+		{
+			"id": "quark:polished_dripstone",
+			"required": false
+		},
+		{
+			"id": "quark:dripstone_bricks",
+			"required": false
+		},
+		{
+			"id": "quark:chiseled_dripstone_bricks",
+			"required": false
+		},
+		{
+			"id": "quark:dripstone_pillar",
+			"required": false
+		}
+	]
+}

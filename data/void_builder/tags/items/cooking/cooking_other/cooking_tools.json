@@ -1,0 +1,15 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:bowl",
+		"minecraft:glass_bottle",
+		{
+			"id": "adorn:brewer",
+			"required": false
+		},
+		{
+			"id": "adorn:mug",
+			"required": false
+		}
+	]
+}

@@ -11,6 +11,11 @@
 		"minecraft:ink_sac",
 		"minecraft:glow_ink_sac",
 		"minecraft:scute",
-		"minecraft:paper"
+		"minecraft:paper",
+		"minecraft:glistering_melon_slice",
+		{
+			"id": "adorn:stone_rod",
+			"required": false
+		}
 	]
 }

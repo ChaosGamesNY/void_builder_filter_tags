@@ -14,10 +14,6 @@
 		"minecraft:polished_blackstone_brick_stairs",
 		"minecraft:polished_blackstone_brick_slab",
 		{
-			"id": "#void_builder:mcwpaths/blackstone",
-			"required": false
-		},
-		{
 			"id": "quark:blackstone_vertical_slab",
 			"required": false
 		},
@@ -91,22 +87,6 @@
 		},
 		{
 			"id": "v_slab_compat:twigs/weeping_polished_blackstone_brick_vertical_slab",
-			"required": false
-		},
-		{
-			"id": "v_slab_compat:mcwpaths/blackstone_running_bond_vertical_slab",
-			"required": false
-		},
-		{
-			"id": "v_slab_compat:mcwpaths/blackstone_windmill_weave_vertical_slab",
-			"required": false
-		},
-		{
-			"id": "v_slab_compat:mcwpaths/blackstone_flagstone_vertical_slab",
-			"required": false
-		},
-		{
-			"id": "v_slab_compat:mcwpaths/blackstone_crystal_floor_vertical_slab",
 			"required": false
 		},
 		{

@@ -1,0 +1,11 @@
+{
+	"replace": false,
+	"values": [
+		"#minecraft:signs",
+		"#minecraft:hanging_signs",
+		{
+			"id": "#adorn:chimneys",
+			"required": false
+		}
+	]
+}

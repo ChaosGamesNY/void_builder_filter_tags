@@ -1,0 +1,9 @@
+{
+	"replace": false,
+	"values": [
+		"#void_builder:deco/bars",
+		"#void_builder:deco/chains",
+		"minecraft:flower_pot",
+		"#void_builder:deco/heads"
+	]
+}

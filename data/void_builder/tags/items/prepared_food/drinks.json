@@ -1,0 +1,21 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "adorn:hot_chocolate",
+			"required": false
+		},
+		{
+			"id": "adorn:sweet_berry_juice",
+			"required": false
+		},
+		{
+			"id": "adorn:glow_berry_tea",
+			"required": false
+		},
+		{
+			"id": "adorn:nether_wart_coffee",
+			"required": false
+		}
+	]
+}

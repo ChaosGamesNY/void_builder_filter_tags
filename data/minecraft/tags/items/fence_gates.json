@@ -1,6 +1,6 @@
 {
 	"replace": false,
-	"value": [
+	"values": [
 		{
 			"id": "biomesoplenty:fir_fence_gate",
 			"required": false
